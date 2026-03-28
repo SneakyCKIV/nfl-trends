@@ -1,41 +1,40 @@
 name: Update NFL Trends
 
-permissions:
-  contents: write
-
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "0 12 * * 2"
+    # Runs every Tuesday at 10:00 UTC (5 AM CDT)
+    - cron: '0 10 * * 2'
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.10'
 
-      - name: Upgrade pip
-        run: pip install --upgrade pip
-
-      - name: Install packages
-        run: |
-          pip install pandas
-          pip install pyarrow
+      - name: Install dependencies
+        run: pip install pandas pyarrow
 
       - name: Run script
         run: python generate_trends.py
 
-      - name: Commit file
+      - name: Commit and push data
         run: |
-         git config user.name "github-actions"
-         git config user.email "actions@github.com"
-         git add trending.json
-         git diff --cached --quiet || git commit -m "update data"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add data/
+
+          git diff --cached --quiet || git commit -m "auto-update data outputs"
+
           git push
