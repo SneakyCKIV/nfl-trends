@@ -1,1 +1,38 @@
+name: Update NFL Trends
 
+on:
+  schedule:
+    - cron: '0 12 * * 2'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Upgrade pip
+        run: pip install --upgrade pip
+
+      - name: Install packages
+        run: |
+          pip install pandas
+          pip install pyarrow
+
+      - name: Run script
+        run: python generate_trends.py
+
+      - name: Commit file
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add trending.json
+          git commit -m "update data"
+          git push
