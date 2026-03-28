@@ -4,8 +4,10 @@ on:
   workflow_dispatch:
 
   schedule:
-    # Runs every Tuesday at 10:00 UTC (5 AM CDT)
-    - cron: '0 10 * * 2'
+    - cron: '0 10 * * 2'  # Tuesday 5 AM CDT
+
+permissions:
+  contents: write   # 🔥 THIS FIXES YOUR ERROR
 
 jobs:
   update:
