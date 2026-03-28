@@ -1,5 +1,13 @@
 import pandas as pd
 import json
+import os
+
+# =========================
+# 0. SETUP
+# =========================
+
+# Ensure data folder exists
+os.makedirs("data", exist_ok=True)
 
 # =========================
 # 1. LOAD DATA
@@ -7,6 +15,9 @@ import json
 
 url = "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2025.parquet"
 df = pd.read_parquet(url)
+
+# Clean data (IMPORTANT)
+df = df[df["posteam"].notna()]
 
 # =========================
 # 2. TEAM METRICS (LAYER 1)
@@ -29,10 +40,7 @@ team_metrics = {
 # 3. PLAYER USAGE (LAYER 2)
 # =========================
 
-# Targets
 targets = df[df['pass'] == 1].groupby(['posteam', 'receiver_player_name']).size()
-
-# Rush attempts
 rushes = df[df['rush'] == 1].groupby(['posteam', 'rusher_player_name']).size()
 
 player_usage = {}
@@ -70,30 +78,35 @@ for player, data in player_usage.items():
 # 5. EFFICIENCY (LAYER 3)
 # =========================
 
-# Receiving efficiency
+# Receiving
 yards = df.groupby('receiver_player_name')['yards_gained'].sum()
 player_targets_total = df[df['pass'] == 1].groupby('receiver_player_name').size()
 epa_target = df[df['pass'] == 1].groupby('receiver_player_name')['epa'].mean()
 
-# Rushing efficiency
+# Rushing
 epa_rush = df[df['rush'] == 1].groupby('rusher_player_name')['epa'].mean()
+rush_success = df[df['rush'] == 1].groupby('rusher_player_name')['success'].mean()
 
 for player in player_usage:
 
     # Receiving
     if player in yards and player in player_targets_total:
-        ypt = yards[player] / player_targets_total[player]
-        player_usage[player]["yards_per_target"] = float(ypt)
+        player_usage[player]["yards_per_target"] = float(
+            yards[player] / player_targets_total[player]
+        )
 
     if player in epa_target:
         player_usage[player]["epa_per_target"] = float(epa_target[player])
 
-    # Rushing (NEW)
+    # Rushing
     if player in epa_rush:
         player_usage[player]["epa_per_rush"] = float(epa_rush[player])
 
+    if player in rush_success:
+        player_usage[player]["rush_success_rate"] = float(rush_success[player])
+
 # =========================
-# 6. RESOLVER LAYER (NEW)
+# 6. RESOLVER LAYER
 # =========================
 
 def normalize(name):
@@ -102,11 +115,12 @@ def normalize(name):
 def resolve_player(name):
     name_clean = normalize(name)
 
+    # Exact match
     for player in player_usage:
         if normalize(player) == name_clean:
             return player
 
-    # fuzzy fallback
+    # Fuzzy match
     for player in player_usage:
         if name_clean in normalize(player):
             return player
@@ -114,7 +128,7 @@ def resolve_player(name):
     return None
 
 # =========================
-# 7. TEAM/POSITION FALLBACK (NEW)
+# 7. TEAM RB FALLBACK
 # =========================
 
 def get_team_rbs(team):
@@ -194,19 +208,33 @@ for move in PLAYER_MOVES:
     player_movement_results.append(result)
 
 # =========================
-# 10. OUTPUT (CLEAN STRUCTURE)
+# 10. OUTPUT
 # =========================
 
-with open("team_metrics.json", "w") as f:
+with open("data/team_metrics.json", "w") as f:
     json.dump(team_metrics, f, indent=2)
 
-with open("player_usage.json", "w") as f:
+with open("data/player_usage.json", "w") as f:
     json.dump(player_usage, f, indent=2)
 
-with open("coach_analysis.json", "w") as f:
+with open("data/coach_analysis.json", "w") as f:
     json.dump(coach_results, f, indent=2)
 
-with open("player_movement.json", "w") as f:
+with open("data/player_movement.json", "w") as f:
     json.dump(player_movement_results, f, indent=2)
+
+# =========================
+# 11. LATEST INDEX (CRITICAL)
+# =========================
+
+latest = {
+    "player_usage": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/player_usage.json",
+    "team_metrics": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/team_metrics.json",
+    "coach": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/coach_analysis.json",
+    "movement": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/player_movement.json"
+}
+
+with open("data/latest.json", "w") as f:
+    json.dump(latest, f, indent=2)
 
 print("✅ Data build complete")
