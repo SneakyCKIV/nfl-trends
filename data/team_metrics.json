@@ -1,0 +1,162 @@
+{
+  "ARI": {
+    "pass_attempts": 791,
+    "pass_rate": 0.5586158192090396,
+    "plays": 1416
+  },
+  "ATL": {
+    "pass_attempts": 617,
+    "pass_rate": 0.44420446364290855,
+    "plays": 1389
+  },
+  "BAL": {
+    "pass_attempts": 533,
+    "pass_rate": 0.40905602455871065,
+    "plays": 1303
+  },
+  "BUF": {
+    "pass_attempts": 706,
+    "pass_rate": 0.45285439384220655,
+    "plays": 1559
+  },
+  "CAR": {
+    "pass_attempts": 668,
+    "pass_rate": 0.476802284082798,
+    "plays": 1401
+  },
+  "CHI": {
+    "pass_attempts": 780,
+    "pass_rate": 0.47648136835675015,
+    "plays": 1637
+  },
+  "CIN": {
+    "pass_attempts": 726,
+    "pass_rate": 0.5167259786476869,
+    "plays": 1405
+  },
+  "CLE": {
+    "pass_attempts": 681,
+    "pass_rate": 0.49671772428884026,
+    "plays": 1371
+  },
+  "DAL": {
+    "pass_attempts": 737,
+    "pass_rate": 0.4952956989247312,
+    "plays": 1488
+  },
+  "DEN": {
+    "pass_attempts": 798,
+    "pass_rate": 0.502835538752363,
+    "plays": 1587
+  },
+  "DET": {
+    "pass_attempts": 650,
+    "pass_rate": 0.46628407460545196,
+    "plays": 1394
+  },
+  "GB": {
+    "pass_attempts": 633,
+    "pass_rate": 0.44957386363636365,
+    "plays": 1408
+  },
+  "HOU": {
+    "pass_attempts": 785,
+    "pass_rate": 0.4869727047146402,
+    "plays": 1612
+  },
+  "IND": {
+    "pass_attempts": 640,
+    "pass_rate": 0.47761194029850745,
+    "plays": 1340
+  },
+  "JAX": {
+    "pass_attempts": 719,
+    "pass_rate": 0.4755291005291005,
+    "plays": 1512
+  },
+  "KC": {
+    "pass_attempts": 734,
+    "pass_rate": 0.5322697606961566,
+    "plays": 1379
+  },
+  "LA": {
+    "pass_attempts": 792,
+    "pass_rate": 0.4731182795698925,
+    "plays": 1674
+  },
+  "LAC": {
+    "pass_attempts": 758,
+    "pass_rate": 0.5053333333333333,
+    "plays": 1500
+  },
+  "LV": {
+    "pass_attempts": 634,
+    "pass_rate": 0.5019794140934284,
+    "plays": 1263
+  },
+  "MIA": {
+    "pass_attempts": 558,
+    "pass_rate": 0.4446215139442231,
+    "plays": 1255
+  },
+  "MIN": {
+    "pass_attempts": 608,
+    "pass_rate": 0.4783634933123525,
+    "plays": 1271
+  },
+  "NE": {
+    "pass_attempts": 811,
+    "pass_rate": 0.4787485242030697,
+    "plays": 1694
+  },
+  "NO": {
+    "pass_attempts": 710,
+    "pass_rate": 0.507505360972123,
+    "plays": 1399
+  },
+  "NYG": {
+    "pass_attempts": 676,
+    "pass_rate": 0.4714086471408647,
+    "plays": 1434
+  },
+  "NYJ": {
+    "pass_attempts": 636,
+    "pass_rate": 0.47604790419161674,
+    "plays": 1336
+  },
+  "PHI": {
+    "pass_attempts": 644,
+    "pass_rate": 0.45066480055983205,
+    "plays": 1429
+  },
+  "PIT": {
+    "pass_attempts": 667,
+    "pass_rate": 0.48263386396526775,
+    "plays": 1382
+  },
+  "SEA": {
+    "pass_attempts": 652,
+    "pass_rate": 0.41239721695129666,
+    "plays": 1581
+  },
+  "SF": {
+    "pass_attempts": 732,
+    "pass_rate": 0.4793713163064833,
+    "plays": 1527
+  },
+  "TB": {
+    "pass_attempts": 690,
+    "pass_rate": 0.4859154929577465,
+    "plays": 1420
+  },
+  "TEN": {
+    "pass_attempts": 686,
+    "pass_rate": 0.5092798812175204,
+    "plays": 1347
+  },
+  "WAS": {
+    "pass_attempts": 617,
+    "pass_rate": 0.4642588412340105,
+    "plays": 1329
+  }
+}

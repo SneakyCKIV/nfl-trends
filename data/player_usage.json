@@ -1,0 +1,4668 @@
+{
+  "A.Baccellia": {
+    "team": "ARI",
+    "targets": 4,
+    "target_share": 0.0064516129032258064,
+    "yards_per_target": 2.0,
+    "epa_per_target": -0.45245616656029597
+  },
+  "C.Kiner": {
+    "team": "ARI",
+    "targets": 3,
+    "rush_attempts": 12,
+    "target_share": 0.004838709677419355,
+    "yards_per_target": 5.0,
+    "epa_per_target": -0.14413200394483283,
+    "epa_per_rush": 0.15732192547390392,
+    "rush_success_rate": 0.5
+  },
+  "E.Demercado": {
+    "team": "ARI",
+    "targets": 20,
+    "rush_attempts": 44,
+    "target_share": 0.03225806451612903,
+    "yards_per_target": 5.05,
+    "epa_per_target": -0.07937774800263338,
+    "epa_per_rush": -0.15685058933190518,
+    "rush_success_rate": 0.3181818181818182
+  },
+  "E.Higgins": {
+    "team": "ARI",
+    "targets": 37,
+    "target_share": 0.05967741935483871,
+    "yards_per_target": 8.135135135135135,
+    "epa_per_target": 0.038586035046751635
+  },
+  "G.Dortch": {
+    "team": "ARI",
+    "targets": 33,
+    "rush_attempts": 7,
+    "target_share": 0.0532258064516129,
+    "yards_per_target": 6.242424242424242,
+    "epa_per_target": 0.12882063968586532,
+    "epa_per_rush": -0.19841612344524556,
+    "rush_success_rate": 0.42857142857142855
+  },
+  "J.Brooks": {
+    "team": "ARI",
+    "targets": 6,
+    "target_share": 0.00967741935483871,
+    "yards_per_target": 8.5,
+    "epa_per_target": 0.30637091140185174
+  },
+  "J.Conner": {
+    "team": "ARI",
+    "targets": 9,
+    "rush_attempts": 32,
+    "target_share": 0.014516129032258065,
+    "yards_per_target": 4.222222222222222,
+    "epa_per_target": 0.24827275593351159,
+    "epa_per_rush": -0.0868606901512976,
+    "rush_success_rate": 0.34375
+  },
+  "J.Deguara": {
+    "team": "ARI",
+    "targets": 5,
+    "target_share": 0.008064516129032258,
+    "yards_per_target": 4.2,
+    "epa_per_target": 0.2802452605916187
+  },
+  "M.Carter": {
+    "team": "ARI",
+    "targets": 45,
+    "rush_attempts": 92,
+    "target_share": 0.07258064516129033,
+    "yards_per_target": 5.933333333333334,
+    "epa_per_target": 0.04122087741800974,
+    "epa_per_rush": -0.07443341794872971,
+    "rush_success_rate": 0.42391304347826086
+  },
+  "M.Harrison": {
+    "team": "ARI",
+    "targets": 74,
+    "target_share": 0.11935483870967742,
+    "yards_per_target": 8.243243243243244,
+    "epa_per_target": 0.42046969561426367
+  },
+  "M.Wilson": {
+    "team": "ARI",
+    "targets": 67,
+    "target_share": 0.10806451612903226,
+    "yards_per_target": 8.164179104477611,
+    "epa_per_target": 0.038237795325262565
+  },
+  "Mi.Wilson": {
+    "team": "ARI",
+    "targets": 60,
+    "target_share": 0.0967741935483871,
+    "yards_per_target": 7.65,
+    "epa_per_target": 0.38650414025958424
+  },
+  "P.Brown": {
+    "team": "ARI",
+    "targets": 2,
+    "target_share": 0.0032258064516129032,
+    "yards_per_target": 0.5,
+    "epa_per_target": -0.4426884611166315
+  },
+  "S.Sims": {
+    "team": "ARI",
+    "targets": 1,
+    "target_share": 0.0016129032258064516,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.5559911653399467
+  },
+  "T.Benson": {
+    "team": "ARI",
+    "targets": 16,
+    "rush_attempts": 29,
+    "target_share": 0.025806451612903226,
+    "yards_per_target": 4.0,
+    "epa_per_target": -0.5045839407056382,
+    "epa_per_rush": -0.00717992995080003,
+    "rush_success_rate": 0.27586206896551724
+  },
+  "T.McBride": {
+    "team": "ARI",
+    "targets": 170,
+    "target_share": 0.27419354838709675,
+    "yards_per_target": 7.288235294117647,
+    "epa_per_target": 0.42774333464866515
+  },
+  "T.Reiman": {
+    "team": "ARI",
+    "targets": 5,
+    "target_share": 0.008064516129032258,
+    "yards_per_target": 3.6,
+    "epa_per_target": 0.0013353297137655318
+  },
+  "T.Sherfield": {
+    "team": "DEN",
+    "targets": 4,
+    "target_share": 0.0060790273556231,
+    "yards_per_target": 4.2,
+    "epa_per_target": -0.17093491923296825
+  },
+  "X.Weaver": {
+    "team": "ARI",
+    "targets": 13,
+    "target_share": 0.020967741935483872,
+    "yards_per_target": 5.153846153846154,
+    "epa_per_target": 0.08830360248871308
+  },
+  "Z.Jones": {
+    "team": "ARI",
+    "targets": 18,
+    "target_share": 0.02903225806451613,
+    "yards_per_target": 10.166666666666666,
+    "epa_per_target": 0.3112511698467036
+  },
+  "Z.Knight": {
+    "team": "ARI",
+    "targets": 31,
+    "rush_attempts": 83,
+    "target_share": 0.05,
+    "yards_per_target": 5.161290322580645,
+    "epa_per_target": 0.04531185038485414,
+    "epa_per_rush": -0.19744015192484526,
+    "rush_success_rate": 0.37349397590361444
+  },
+  "B.Robinson": {
+    "team": "SF",
+    "targets": 13,
+    "rush_attempts": 95,
+    "target_share": 0.02127659574468085,
+    "yards_per_target": 7.310344827586207,
+    "epa_per_target": 0.1913493460008684,
+    "epa_per_rush": -0.03995063200709903,
+    "rush_success_rate": 0.4151436031331593
+  },
+  "C.Washington": {
+    "team": "ATL",
+    "targets": 5,
+    "target_share": 0.009578544061302681,
+    "yards_per_target": 8.4,
+    "epa_per_target": -0.01485926101449877
+  },
+  "C.Woerner": {
+    "team": "ATL",
+    "targets": 9,
+    "target_share": 0.017241379310344827,
+    "yards_per_target": 5.333333333333333,
+    "epa_per_target": -0.022467327530547563
+  },
+  "Cas.Washington": {
+    "team": "ATL",
+    "targets": 9,
+    "target_share": 0.017241379310344827,
+    "yards_per_target": 5.777777777777778,
+    "epa_per_target": 0.4225749781471677
+  },
+  "D.Drummond": {
+    "team": "ATL",
+    "targets": 12,
+    "target_share": 0.022988505747126436,
+    "yards_per_target": 3.5,
+    "epa_per_target": -0.5885648348770948
+  },
+  "D.London": {
+    "team": "ATL",
+    "targets": 113,
+    "target_share": 0.2164750957854406,
+    "yards_per_target": 8.150442477876107,
+    "epa_per_target": 0.21929730382885854
+  },
+  "D.Mooney": {
+    "team": "ATL",
+    "targets": 72,
+    "target_share": 0.13793103448275862,
+    "yards_per_target": 6.152777777777778,
+    "epa_per_target": 0.05094329877041117
+  },
+  "D.Sills": {
+    "team": "ATL",
+    "targets": 36,
+    "target_share": 0.06896551724137931,
+    "yards_per_target": 5.305555555555555,
+    "epa_per_target": -0.049445313893252095
+  },
+  "D.Thompkins": {
+    "team": "ATL",
+    "targets": 3,
+    "rush_attempts": 1,
+    "target_share": 0.005747126436781609,
+    "yards_per_target": 9.0,
+    "epa_per_target": 0.3111845104722306,
+    "epa_per_rush": 0.3470350680872798,
+    "rush_success_rate": 1.0
+  },
+  "J.Matthews": {
+    "team": "ATL",
+    "targets": 1,
+    "target_share": 0.0019157088122605363,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.2404654118581675
+  },
+  "K.Hodge": {
+    "team": "ATL",
+    "targets": 10,
+    "target_share": 0.019157088122605363,
+    "yards_per_target": 3.1,
+    "epa_per_target": -0.2792162029421752
+  },
+  "K.Pitts": {
+    "team": "ATL",
+    "targets": 119,
+    "target_share": 0.22796934865900384,
+    "yards_per_target": 7.798319327731092,
+    "epa_per_target": 0.20658783492159372
+  },
+  "R.McCloud": {
+    "team": "NYG",
+    "targets": 1,
+    "target_share": 0.001976284584980237,
+    "yards_per_target": 4.6,
+    "epa_per_target": -0.6301317464640956
+  },
+  "T.Allgeier": {
+    "team": "ATL",
+    "targets": 16,
+    "rush_attempts": 143,
+    "target_share": 0.03065134099616858,
+    "yards_per_target": 6.0,
+    "epa_per_target": 0.17392758288406185,
+    "epa_per_rush": -0.08080238204752715,
+    "rush_success_rate": 0.3986013986013986
+  },
+  "C.Kolar": {
+    "team": "BAL",
+    "targets": 15,
+    "target_share": 0.03667481662591687,
+    "yards_per_target": 9.466666666666667,
+    "epa_per_target": 0.3436378828967766
+  },
+  "D.Henry": {
+    "team": "BAL",
+    "targets": 21,
+    "rush_attempts": 307,
+    "target_share": 0.05134474327628362,
+    "yards_per_target": 7.142857142857143,
+    "epa_per_target": -0.13694060992981708,
+    "epa_per_rush": 0.02985724517991132,
+    "rush_success_rate": 0.4169381107491857
+  },
+  "D.Hopkins": {
+    "team": "BAL",
+    "targets": 39,
+    "target_share": 0.09535452322738386,
+    "yards_per_target": 8.461538461538462,
+    "epa_per_target": 0.24223664301691528
+  },
+  "D.Walker": {
+    "team": "BAL",
+    "targets": 8,
+    "target_share": 0.019559902200488997,
+    "yards_per_target": 17.0,
+    "epa_per_target": 2.242196919694834
+  },
+  "I.Likely": {
+    "team": "BAL",
+    "targets": 36,
+    "target_share": 0.08801955990220049,
+    "yards_per_target": 8.527777777777779,
+    "epa_per_target": 0.14987278520690372
+  },
+  "J.Hill": {
+    "team": "BAL",
+    "targets": 21,
+    "rush_attempts": 18,
+    "target_share": 0.05134474327628362,
+    "yards_per_target": 6.479166666666667,
+    "epa_per_target": 0.0336991491562861,
+    "epa_per_rush": -0.06968421063437644,
+    "rush_success_rate": 0.2777777777777778
+  },
+  "K.Mitchell": {
+    "team": "BAL",
+    "targets": 12,
+    "rush_attempts": 59,
+    "target_share": 0.029339853300733496,
+    "yards_per_target": 5.25,
+    "epa_per_target": -0.4607804833649425,
+    "epa_per_rush": 0.04435203431452372,
+    "rush_success_rate": 0.3559322033898305
+  },
+  "M.Andrews": {
+    "team": "BAL",
+    "targets": 70,
+    "rush_attempts": 10,
+    "target_share": 0.17114914425427874,
+    "yards_per_target": 6.0285714285714285,
+    "epa_per_target": 0.022109239233504257,
+    "epa_per_rush": 0.6520739546627737,
+    "rush_success_rate": 0.7
+  },
+  "P.Ricard": {
+    "team": "BAL",
+    "targets": 2,
+    "rush_attempts": 1,
+    "target_share": 0.004889975550122249,
+    "yards_per_target": 4.0,
+    "epa_per_target": -0.24736987112555653,
+    "epa_per_rush": 0.5102673803921789,
+    "rush_success_rate": 1.0
+  },
+  "R.Ali": {
+    "team": "BAL",
+    "targets": 11,
+    "rush_attempts": 7,
+    "target_share": 0.02689486552567237,
+    "yards_per_target": 6.181818181818182,
+    "epa_per_target": -0.07090859448464942,
+    "epa_per_rush": -0.5316352243452067,
+    "rush_success_rate": 0.2857142857142857
+  },
+  "R.Bateman": {
+    "team": "BAL",
+    "targets": 39,
+    "target_share": 0.09535452322738386,
+    "yards_per_target": 5.794871794871795,
+    "epa_per_target": -0.0429681983184013
+  },
+  "T.Wallace": {
+    "team": "BAL",
+    "targets": 8,
+    "target_share": 0.019559902200488997,
+    "yards_per_target": 5.625,
+    "epa_per_target": 0.18892226505159676
+  },
+  "Z.Flowers": {
+    "team": "BAL",
+    "targets": 119,
+    "rush_attempts": 10,
+    "target_share": 0.29095354523227385,
+    "yards_per_target": 10.176470588235293,
+    "epa_per_target": 0.3897832156168253,
+    "epa_per_rush": 0.24996555442921817,
+    "rush_success_rate": 0.5
+  },
+  "Z.Mitchell-Paden": {
+    "team": "NO",
+    "targets": 1,
+    "target_share": 0.0017667844522968198,
+    "yards_per_target": 5.666666666666667,
+    "epa_per_target": 0.3818394777481444
+  },
+  "B.Cooks": {
+    "team": "NO",
+    "targets": 25,
+    "target_share": 0.044169611307420496,
+    "yards_per_target": 7.595744680851064,
+    "epa_per_target": 0.4137623349631836
+  },
+  "C.Samuel": {
+    "team": "BUF",
+    "targets": 12,
+    "target_share": 0.021352313167259787,
+    "yards_per_target": 6.916666666666667,
+    "epa_per_target": 0.23598103058854272
+  },
+  "D.Kincaid": {
+    "team": "BUF",
+    "targets": 61,
+    "target_share": 0.10854092526690391,
+    "yards_per_target": 11.180327868852459,
+    "epa_per_target": 0.8184740143398082
+  },
+  "D.Knox": {
+    "team": "BUF",
+    "targets": 58,
+    "target_share": 0.10320284697508897,
+    "yards_per_target": 8.293103448275861,
+    "epa_per_target": 0.3233242500564174
+  },
+  "E.Moore": {
+    "team": "BUF",
+    "targets": 1,
+    "rush_attempts": 6,
+    "target_share": 0.0017793594306049821,
+    "yards_per_target": 6.444444444444445,
+    "epa_per_target": -0.27624906194978394,
+    "epa_per_rush": -0.002526645791173602,
+    "rush_success_rate": 0.5
+  },
+  "F.Gore": {
+    "team": "BUF",
+    "targets": 1,
+    "target_share": 0.0017793594306049821,
+    "yards_per_target": 6.0,
+    "epa_per_target": 0.11999802058562636
+  },
+  "G.Davis": {
+    "team": "BUF",
+    "targets": 21,
+    "target_share": 0.037366548042704624,
+    "yards_per_target": 6.809523809523809,
+    "epa_per_target": 0.5690889635422666
+  },
+  "J.Cook": {
+    "team": "BUF",
+    "targets": 46,
+    "rush_attempts": 348,
+    "target_share": 0.08185053380782918,
+    "yards_per_target": 6.956521739130435,
+    "epa_per_target": 0.16689537187883854,
+    "epa_per_rush": -0.0023868021413556107,
+    "rush_success_rate": 0.4482758620689655
+  },
+  "J.Hawes": {
+    "team": "BUF",
+    "targets": 19,
+    "target_share": 0.033807829181494664,
+    "yards_per_target": 9.842105263157896,
+    "epa_per_target": 0.7806978571522785
+  },
+  "J.Palmer": {
+    "team": "BUF",
+    "targets": 37,
+    "target_share": 0.06583629893238434,
+    "yards_per_target": 9.08108108108108,
+    "epa_per_target": 0.18225979566179004
+  },
+  "K.Coleman": {
+    "team": "BUF",
+    "targets": 66,
+    "target_share": 0.11743772241992882,
+    "yards_per_target": 7.015151515151516,
+    "epa_per_target": 0.24307883164227825
+  },
+  "K.Latu": {
+    "team": "BUF",
+    "targets": 4,
+    "target_share": 0.0071174377224199285,
+    "yards_per_target": 8.75,
+    "epa_per_target": 1.329812888696324
+  },
+  "K.Shakir": {
+    "team": "BUF",
+    "targets": 118,
+    "rush_attempts": 1,
+    "target_share": 0.2099644128113879,
+    "yards_per_target": 7.3474576271186445,
+    "epa_per_target": 0.12463268048571859,
+    "epa_per_rush": -0.10540814138948917,
+    "rush_success_rate": 0.0
+  },
+  "M.Hardman": {
+    "team": "BUF",
+    "targets": 3,
+    "target_share": 0.005338078291814947,
+    "yards_per_target": 1.3333333333333333,
+    "epa_per_target": 0.105743382339521
+  },
+  "R.Davis": {
+    "team": "BUF",
+    "targets": 16,
+    "rush_attempts": 58,
+    "target_share": 0.028469750889679714,
+    "yards_per_target": 5.9375,
+    "epa_per_target": 0.37498621436953544,
+    "epa_per_rush": 0.02328510493529832,
+    "rush_success_rate": 0.41379310344827586
+  },
+  "R.Gilliam": {
+    "team": "BUF",
+    "targets": 3,
+    "rush_attempts": 2,
+    "target_share": 0.005338078291814947,
+    "yards_per_target": 8.0,
+    "epa_per_target": -0.028205732315313092,
+    "epa_per_rush": -0.13032927592576016,
+    "rush_success_rate": 0.5
+  },
+  "T.Shavers": {
+    "team": "BUF",
+    "targets": 25,
+    "target_share": 0.04448398576512456,
+    "yards_per_target": 11.2,
+    "epa_per_target": 0.5411183810560033
+  },
+  "Ty.Johnson": {
+    "team": "BUF",
+    "targets": 33,
+    "rush_attempts": 50,
+    "target_share": 0.05871886120996441,
+    "yards_per_target": 7.0,
+    "epa_per_target": 0.34695406023864495,
+    "epa_per_rush": 0.055264993206365035,
+    "rush_success_rate": 0.5
+  },
+  "B.Tremayne": {
+    "team": "CAR",
+    "targets": 19,
+    "target_share": 0.036608863198458574,
+    "yards_per_target": 8.421052631578947,
+    "epa_per_target": 0.33216120674989363
+  },
+  "C.Hubbard": {
+    "team": "CAR",
+    "targets": 43,
+    "rush_attempts": 148,
+    "target_share": 0.08285163776493257,
+    "yards_per_target": 5.488372093023256,
+    "epa_per_target": 0.03415422039729636,
+    "epa_per_rush": -0.10118354637840477,
+    "rush_success_rate": 0.4189189189189189
+  },
+  "D.Moore": {
+    "team": "CHI",
+    "targets": 100,
+    "rush_attempts": 17,
+    "target_share": 0.16,
+    "yards_per_target": 7.801980198019802,
+    "epa_per_target": 0.21658534376973929,
+    "epa_per_rush": 0.25295237593753783,
+    "rush_success_rate": 0.5555555555555556
+  },
+  "H.Renfrow": {
+    "team": "CAR",
+    "targets": 26,
+    "target_share": 0.05009633911368015,
+    "yards_per_target": 3.423076923076923,
+    "epa_per_target": -0.07703230085799609
+  },
+  "J.Coker": {
+    "team": "CAR",
+    "targets": 57,
+    "target_share": 0.10982658959537572,
+    "yards_per_target": 9.31578947368421,
+    "epa_per_target": 0.4819477349034707
+  },
+  "J.Mitchell": {
+    "team": "CAR",
+    "targets": 4,
+    "target_share": 0.007707129094412331,
+    "yards_per_target": 7.0,
+    "epa_per_target": -0.3082889763172716
+  },
+  "J.Sanders": {
+    "team": "CAR",
+    "targets": 34,
+    "target_share": 0.06551059730250482,
+    "yards_per_target": 5.588235294117647,
+    "epa_per_target": 0.12991161195181083
+  },
+  "Ji.Horn": {
+    "team": "CAR",
+    "targets": 17,
+    "rush_attempts": 8,
+    "target_share": 0.03275529865125241,
+    "yards_per_target": 6.352941176470588,
+    "epa_per_target": 0.07769592684316133,
+    "epa_per_rush": 0.5431391359379631,
+    "rush_success_rate": 0.875
+  },
+  "M.Evans": {
+    "team": "CAR",
+    "targets": 62,
+    "rush_attempts": 1,
+    "target_share": 0.11946050096339114,
+    "yards_per_target": 6.125,
+    "epa_per_target": 0.08701852389483188,
+    "epa_per_rush": 1.7842922472627833,
+    "rush_success_rate": 1.0
+  },
+  "R.Dowdle": {
+    "team": "CAR",
+    "targets": 52,
+    "rush_attempts": 242,
+    "target_share": 0.1001926782273603,
+    "yards_per_target": 5.826923076923077,
+    "epa_per_target": -0.0260928146703294,
+    "epa_per_rush": -0.016435682496630858,
+    "rush_success_rate": 0.41735537190082644
+  },
+  "T.Etienne": {
+    "team": "JAX",
+    "targets": 57,
+    "rush_attempts": 270,
+    "target_share": 0.09844559585492228,
+    "yards_per_target": 5.9,
+    "epa_per_target": 0.22011173197048872,
+    "epa_per_rush": -0.06295214291435641,
+    "rush_success_rate": 0.36769759450171824
+  },
+  "T.McMillan": {
+    "team": "CAR",
+    "targets": 129,
+    "target_share": 0.24855491329479767,
+    "yards_per_target": 8.48062015503876,
+    "epa_per_target": 0.22760935056909815
+  },
+  "T.Tremble": {
+    "team": "CAR",
+    "targets": 40,
+    "target_share": 0.07707129094412331,
+    "yards_per_target": 6.775,
+    "epa_per_target": 0.2204735606805744
+  },
+  "X.Legette": {
+    "team": "CAR",
+    "targets": 68,
+    "rush_attempts": 1,
+    "target_share": 0.13102119460500963,
+    "yards_per_target": 5.455882352941177,
+    "epa_per_target": -0.10731144627146799,
+    "epa_per_rush": -0.5305159189738333,
+    "rush_success_rate": 0.0
+  },
+  "B.Brown": {
+    "team": "CHI",
+    "targets": 1,
+    "rush_attempts": 5,
+    "target_share": 0.0016,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.16605298343347386,
+    "epa_per_rush": 0.5196810500929132,
+    "rush_success_rate": 0.6
+  },
+  "C.Kmet": {
+    "team": "CHI",
+    "targets": 54,
+    "target_share": 0.0864,
+    "yards_per_target": 7.037037037037037,
+    "epa_per_target": 0.23653670366184304
+  },
+  "C.Loveland": {
+    "team": "CHI",
+    "targets": 109,
+    "rush_attempts": 1,
+    "target_share": 0.1744,
+    "yards_per_target": 8.412844036697248,
+    "epa_per_target": 0.45709343275798486,
+    "epa_per_rush": -0.8725153338164091,
+    "rush_success_rate": 0.0
+  },
+  "C.Williams": {
+    "team": "CHI",
+    "targets": 2,
+    "rush_attempts": 26,
+    "target_share": 0.0032,
+    "yards_per_target": 11.0,
+    "epa_per_target": 2.638504837814253,
+    "epa_per_rush": -0.48689173080635667,
+    "rush_success_rate": 0.4230769230769231
+  },
+  "D.Duvernay": {
+    "team": "CHI",
+    "targets": 5,
+    "target_share": 0.008,
+    "yards_per_target": 5.2,
+    "epa_per_target": -0.0617560403429521
+  },
+  "D.Smythe": {
+    "team": "CHI",
+    "targets": 9,
+    "target_share": 0.0144,
+    "yards_per_target": 4.0,
+    "epa_per_target": -0.024319332726817165
+  },
+  "D.Swift": {
+    "team": "CHI",
+    "targets": 50,
+    "rush_attempts": 255,
+    "target_share": 0.08,
+    "yards_per_target": 6.56,
+    "epa_per_target": 0.02658243167982877,
+    "epa_per_rush": 0.04882984941232018,
+    "rush_success_rate": 0.4666666666666667
+  },
+  "J.Walker": {
+    "team": "CHI",
+    "targets": 10,
+    "target_share": 0.016,
+    "yards_per_target": 8.7,
+    "epa_per_target": 0.6853540320356842
+  },
+  "K.Monangai": {
+    "team": "CHI",
+    "targets": 37,
+    "rush_attempts": 192,
+    "target_share": 0.0592,
+    "yards_per_target": 6.0,
+    "epa_per_target": -0.08505239392151506,
+    "epa_per_rush": -0.021327807455235114,
+    "rush_success_rate": 0.4479166666666667
+  },
+  "L.Burden": {
+    "team": "CHI",
+    "targets": 74,
+    "rush_attempts": 8,
+    "target_share": 0.1184,
+    "yards_per_target": 9.756756756756756,
+    "epa_per_target": 0.351755589604255,
+    "epa_per_rush": 0.060912734748853836,
+    "rush_success_rate": 0.375
+  },
+  "O.Zaccheaus": {
+    "team": "CHI",
+    "targets": 70,
+    "rush_attempts": 4,
+    "target_share": 0.112,
+    "yards_per_target": 4.714285714285714,
+    "epa_per_target": -0.043191087939485194,
+    "epa_per_rush": 0.15852416715642903,
+    "rush_success_rate": 0.5
+  },
+  "R.Odunze": {
+    "team": "CHI",
+    "targets": 103,
+    "target_share": 0.1648,
+    "yards_per_target": 7.378640776699029,
+    "epa_per_target": 0.24968821376570144
+  },
+  "T.Benedet": {
+    "team": "CHI",
+    "targets": 1,
+    "target_share": 0.0016,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.4726260816678405
+  },
+  "A.Iosivas": {
+    "team": "CIN",
+    "targets": 58,
+    "rush_attempts": 3,
+    "target_share": 0.09492635024549918,
+    "yards_per_target": 7.5,
+    "epa_per_target": 0.20132340629898463,
+    "epa_per_rush": -0.049505543584624924,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "C.Brown": {
+    "team": "CIN",
+    "targets": 89,
+    "rush_attempts": 233,
+    "target_share": 0.14566284779050737,
+    "yards_per_target": 4.674157303370786,
+    "epa_per_target": -0.11605711771603866,
+    "epa_per_rush": -0.018203264626645375,
+    "rush_success_rate": 0.39914163090128757
+  },
+  "C.Ford": {
+    "team": "CIN",
+    "targets": 1,
+    "target_share": 0.0016366612111292963,
+    "yards_per_target": 21.0,
+    "epa_per_target": 1.6709702801308595
+  },
+  "C.Grandy": {
+    "team": "CIN",
+    "targets": 2,
+    "target_share": 0.0032733224222585926,
+    "yards_per_target": 3.5,
+    "epa_per_target": -0.17581050121225417
+  },
+  "C.Jones": {
+    "team": "CIN",
+    "targets": 1,
+    "target_share": 0.0016366612111292963,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.5337089993990958
+  },
+  "D.Sample": {
+    "team": "CIN",
+    "targets": 20,
+    "rush_attempts": 1,
+    "target_share": 0.03273322422258593,
+    "yards_per_target": 5.3,
+    "epa_per_target": 0.13259035284863785,
+    "epa_per_rush": -0.5837107149418443,
+    "rush_success_rate": 0.0
+  },
+  "J.Chase": {
+    "team": "CIN",
+    "targets": 185,
+    "rush_attempts": 3,
+    "target_share": 0.3027823240589198,
+    "yards_per_target": 7.632432432432433,
+    "epa_per_target": 0.22367283104733418,
+    "epa_per_rush": 0.04095462507878741,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "K.Williams": {
+    "team": "NE",
+    "targets": 27,
+    "rush_attempts": 2,
+    "target_share": 0.0451505016722408,
+    "yards_per_target": 6.655172413793103,
+    "epa_per_target": 0.2462820625527429,
+    "epa_per_rush": 0.022239943445346255,
+    "rush_success_rate": 0.49185667752442996
+  },
+  "M.Gesicki": {
+    "team": "CIN",
+    "targets": 43,
+    "target_share": 0.07037643207855974,
+    "yards_per_target": 7.1395348837209305,
+    "epa_per_target": 0.10196977223677366
+  },
+  "M.Tinsley": {
+    "team": "CIN",
+    "targets": 24,
+    "target_share": 0.03927986906710311,
+    "yards_per_target": 4.833333333333333,
+    "epa_per_target": 0.109516530162934
+  },
+  "N.Fant": {
+    "team": "CIN",
+    "targets": 41,
+    "target_share": 0.06710310965630115,
+    "yards_per_target": 7.024390243902439,
+    "epa_per_target": -0.2874096347390416
+  },
+  "S.Perine": {
+    "team": "CIN",
+    "targets": 21,
+    "rush_attempts": 84,
+    "target_share": 0.03436988543371522,
+    "yards_per_target": 4.142857142857143,
+    "epa_per_target": -0.12347687555227649,
+    "epa_per_rush": -0.0029652796351025083,
+    "rush_success_rate": 0.5476190476190477
+  },
+  "T.Brooks": {
+    "team": "CIN",
+    "targets": 2,
+    "rush_attempts": 16,
+    "target_share": 0.0032733224222585926,
+    "yards_per_target": 4.5,
+    "epa_per_target": -4.015119389165193,
+    "epa_per_rush": -0.25444892898667604,
+    "rush_success_rate": 0.25
+  },
+  "T.Higgins": {
+    "team": "CIN",
+    "targets": 99,
+    "target_share": 0.16202945990180032,
+    "yards_per_target": 8.797979797979798,
+    "epa_per_target": 0.3635037029282625
+  },
+  "T.Hudson": {
+    "team": "CIN",
+    "targets": 24,
+    "target_share": 0.03927986906710311,
+    "yards_per_target": 7.0,
+    "epa_per_target": 0.023589487529063053
+  },
+  "B.Bates": {
+    "team": "HOU",
+    "targets": 2,
+    "target_share": 0.0031545741324921135,
+    "yards_per_target": 9.6,
+    "epa_per_target": 0.6104608185472898
+  },
+  "B.Whiteheart": {
+    "team": "CLE",
+    "targets": 6,
+    "target_share": 0.011450381679389313,
+    "yards_per_target": 0.6666666666666666,
+    "epa_per_target": -0.6213283836938596
+  },
+  "C.Tillman": {
+    "team": "CLE",
+    "targets": 39,
+    "target_share": 0.07442748091603053,
+    "yards_per_target": 6.923076923076923,
+    "epa_per_target": 0.16736787388588822
+  },
+  "D.Njoku": {
+    "team": "CLE",
+    "targets": 48,
+    "target_share": 0.0916030534351145,
+    "yards_per_target": 6.104166666666667,
+    "epa_per_target": -0.0753077571559954
+  },
+  "D.Sampson": {
+    "team": "CLE",
+    "targets": 40,
+    "rush_attempts": 65,
+    "target_share": 0.07633587786259542,
+    "yards_per_target": 6.775,
+    "epa_per_target": 0.17248284149609389,
+    "epa_per_rush": -0.25880995683170044,
+    "rush_success_rate": 0.26153846153846155
+  },
+  "G.Larvadain": {
+    "team": "CLE",
+    "targets": 15,
+    "target_share": 0.02862595419847328,
+    "yards_per_target": 4.733333333333333,
+    "epa_per_target": -0.3187676358104528
+  },
+  "H.Fannin": {
+    "team": "CLE",
+    "targets": 108,
+    "rush_attempts": 7,
+    "target_share": 0.20610687022900764,
+    "yards_per_target": 6.768518518518518,
+    "epa_per_target": 0.01296435707980537,
+    "epa_per_rush": -0.2529795582106869,
+    "rush_success_rate": 0.2857142857142857
+  },
+  "I.Bond": {
+    "team": "CLE",
+    "targets": 44,
+    "rush_attempts": 5,
+    "target_share": 0.08396946564885496,
+    "yards_per_target": 7.204545454545454,
+    "epa_per_target": -0.018284216863069632,
+    "epa_per_rush": 0.17583434365224093,
+    "rush_success_rate": 0.6
+  },
+  "J.Ford": {
+    "team": "CLE",
+    "targets": 32,
+    "rush_attempts": 24,
+    "target_share": 0.061068702290076333,
+    "yards_per_target": 3.21875,
+    "epa_per_target": -0.17461079690878117,
+    "epa_per_rush": -0.1257067013939377,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "J.Jeudy": {
+    "team": "CLE",
+    "targets": 106,
+    "rush_attempts": 1,
+    "target_share": 0.20229007633587787,
+    "yards_per_target": 5.679245283018868,
+    "epa_per_target": -0.3047684292266284,
+    "epa_per_rush": 2.7333873165771365,
+    "rush_success_rate": 1.0
+  },
+  "J.Thrash": {
+    "team": "CLE",
+    "targets": 15,
+    "target_share": 0.02862595419847328,
+    "yards_per_target": 7.133333333333334,
+    "epa_per_target": 0.1567199440614786
+  },
+  "L.Wypler": {
+    "team": "CLE",
+    "targets": 1,
+    "target_share": 0.0019083969465648854,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.24714013846823946
+  },
+  "M.Corley": {
+    "team": "CLE",
+    "targets": 14,
+    "rush_attempts": 13,
+    "target_share": 0.026717557251908396,
+    "yards_per_target": 7.142857142857143,
+    "epa_per_target": -0.23027252612934848,
+    "epa_per_rush": 0.5628245852108543,
+    "rush_success_rate": 0.7692307692307693
+  },
+  "Q.Judkins": {
+    "team": "CLE",
+    "targets": 36,
+    "rush_attempts": 231,
+    "target_share": 0.06870229007633588,
+    "yards_per_target": 4.75,
+    "epa_per_target": -0.20255491773423273,
+    "epa_per_rush": -0.10867043691992133,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "R.Sanders": {
+    "team": "CLE",
+    "targets": 4,
+    "rush_attempts": 27,
+    "target_share": 0.007633587786259542,
+    "yards_per_target": 5.25,
+    "epa_per_target": 0.29755186493275687,
+    "epa_per_rush": 0.03336477737132184,
+    "rush_success_rate": 0.4074074074074074
+  },
+  "S.Cannella": {
+    "team": "CLE",
+    "targets": 5,
+    "target_share": 0.009541984732824428,
+    "yards_per_target": 2.2,
+    "epa_per_target": -1.763900738954544
+  },
+  "T.Williams": {
+    "team": "LAC",
+    "targets": 1,
+    "rush_attempts": 3,
+    "target_share": 0.0017421602787456446,
+    "yards_per_target": 6.111111111111111,
+    "epa_per_target": -0.3595080284836175,
+    "epa_per_rush": 0.15745609656732995,
+    "rush_success_rate": 0.4
+  },
+  "B.Spann-Ford": {
+    "team": "DAL",
+    "targets": 13,
+    "target_share": 0.021311475409836064,
+    "yards_per_target": 6.923076923076923,
+    "epa_per_target": -0.049440174909810036
+  },
+  "C.Lamb": {
+    "team": "DAL",
+    "targets": 117,
+    "rush_attempts": 1,
+    "target_share": 0.1918032786885246,
+    "yards_per_target": 9.205128205128204,
+    "epa_per_target": 0.24778478106506657,
+    "epa_per_rush": -0.2478505993494764,
+    "rush_success_rate": 0.0
+  },
+  "G.Pickens": {
+    "team": "DAL",
+    "targets": 138,
+    "target_share": 0.2262295081967213,
+    "yards_per_target": 10.369565217391305,
+    "epa_per_target": 0.6430631252181457
+  },
+  "H.Luepke": {
+    "team": "DAL",
+    "targets": 15,
+    "rush_attempts": 16,
+    "target_share": 0.02459016393442623,
+    "yards_per_target": 7.266666666666667,
+    "epa_per_target": 0.30691017792477854,
+    "epa_per_rush": -0.09987757120597747,
+    "rush_success_rate": 0.5625
+  },
+  "J.Blue": {
+    "team": "DAL",
+    "targets": 1,
+    "rush_attempts": 38,
+    "target_share": 0.001639344262295082,
+    "yards_per_target": 5.0,
+    "epa_per_target": -0.11936172936111689,
+    "epa_per_rush": -0.19704303832565384,
+    "rush_success_rate": 0.2894736842105263
+  },
+  "J.Ferguson": {
+    "team": "DAL",
+    "targets": 103,
+    "rush_attempts": 1,
+    "target_share": 0.16885245901639345,
+    "yards_per_target": 5.844660194174757,
+    "epa_per_target": 0.18505035840243703,
+    "epa_per_rush": -0.6943626506254077,
+    "rush_success_rate": 0.0
+  },
+  "J.Mingo": {
+    "team": "DAL",
+    "targets": 5,
+    "target_share": 0.00819672131147541,
+    "yards_per_target": 5.0,
+    "epa_per_target": -0.8392155601992272
+  },
+  "J.Tolbert": {
+    "team": "DAL",
+    "targets": 35,
+    "target_share": 0.05737704918032787,
+    "yards_per_target": 5.857142857142857,
+    "epa_per_target": 0.14031519776497894
+  },
+  "J.Williams": {
+    "team": "TB",
+    "targets": 102,
+    "rush_attempts": 4,
+    "target_share": 0.1871559633027523,
+    "yards_per_target": 8.143790849673202,
+    "epa_per_target": 0.21850434881637446,
+    "epa_per_rush": 0.03405831338567633,
+    "rush_success_rate": 0.44656488549618323
+  },
+  "K.Turpin": {
+    "team": "DAL",
+    "targets": 38,
+    "rush_attempts": 17,
+    "target_share": 0.06229508196721312,
+    "yards_per_target": 10.421052631578947,
+    "epa_per_target": 0.44002637599729455,
+    "epa_per_rush": -0.1867341650821104,
+    "rush_success_rate": 0.4117647058823529
+  },
+  "L.Schoonmaker": {
+    "team": "DAL",
+    "targets": 23,
+    "target_share": 0.03770491803278689,
+    "yards_per_target": 5.739130434782608,
+    "epa_per_target": 0.15826768047712825
+  },
+  "M.Davis": {
+    "team": "DAL",
+    "targets": 5,
+    "rush_attempts": 52,
+    "target_share": 0.00819672131147541,
+    "yards_per_target": 3.2,
+    "epa_per_target": -0.9623951622867025,
+    "epa_per_rush": 0.01564216047196309,
+    "rush_success_rate": 0.40384615384615385
+  },
+  "M.Sanders": {
+    "team": "DAL",
+    "targets": 8,
+    "rush_attempts": 20,
+    "target_share": 0.013114754098360656,
+    "yards_per_target": 3.75,
+    "epa_per_target": -0.18935865874794583,
+    "epa_per_rush": -0.09436991136462894,
+    "rush_success_rate": 0.45
+  },
+  "P.Mafah": {
+    "team": "DAL",
+    "targets": 2,
+    "rush_attempts": 5,
+    "target_share": 0.003278688524590164,
+    "yards_per_target": 5.5,
+    "epa_per_target": -0.06954643252538517,
+    "epa_per_rush": 0.21460552006028594,
+    "rush_success_rate": 0.6
+  },
+  "R.Flournoy": {
+    "team": "DAL",
+    "targets": 56,
+    "rush_attempts": 4,
+    "target_share": 0.09180327868852459,
+    "yards_per_target": 8.482142857142858,
+    "epa_per_target": 0.5113363048281412,
+    "epa_per_rush": 0.11821114219492301,
+    "rush_success_rate": 0.5
+  },
+  "A.Prentice": {
+    "team": "DEN",
+    "targets": 9,
+    "rush_attempts": 11,
+    "target_share": 0.013677811550151976,
+    "yards_per_target": 5.888888888888889,
+    "epa_per_target": 0.09993270241344969,
+    "epa_per_rush": -0.04527022342980755,
+    "rush_success_rate": 0.5454545454545454
+  },
+  "A.Trautman": {
+    "team": "DEN",
+    "targets": 25,
+    "target_share": 0.037993920972644375,
+    "yards_per_target": 7.8,
+    "epa_per_target": 0.3885304292337969
+  },
+  "B.Nix": {
+    "team": "DEN",
+    "targets": 1,
+    "rush_attempts": 37,
+    "target_share": 0.001519756838905775,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.4586076693958603,
+    "epa_per_rush": -0.08464730066452594,
+    "rush_success_rate": 0.4864864864864865
+  },
+  "C.Sutton": {
+    "team": "DEN",
+    "targets": 139,
+    "target_share": 0.21124620060790272,
+    "yards_per_target": 7.83453237410072,
+    "epa_per_target": 0.32996392764318383
+  },
+  "E.Engram": {
+    "team": "DEN",
+    "targets": 83,
+    "rush_attempts": 1,
+    "target_share": 0.12613981762917933,
+    "yards_per_target": 5.867469879518072,
+    "epa_per_target": -0.032819025779705656,
+    "epa_per_rush": 0.25443235179409385,
+    "rush_success_rate": 1.0
+  },
+  "F.Crum": {
+    "team": "DEN",
+    "targets": 1,
+    "target_share": 0.001519756838905775,
+    "yards_per_target": 7.0,
+    "epa_per_target": 2.0322407279745676
+  },
+  "G.Bolles": {
+    "team": "DEN",
+    "targets": 1,
+    "target_share": 0.001519756838905775,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.82037357360241
+  },
+  "J.Dobbins": {
+    "team": "DEN",
+    "targets": 14,
+    "rush_attempts": 153,
+    "target_share": 0.02127659574468085,
+    "yards_per_target": 2.642857142857143,
+    "epa_per_target": -0.3561222344745017,
+    "epa_per_rush": 0.027347953058208575,
+    "rush_success_rate": 0.45751633986928103
+  },
+  "J.McLaughlin": {
+    "team": "DEN",
+    "targets": 9,
+    "rush_attempts": 45,
+    "target_share": 0.013677811550151976,
+    "yards_per_target": 3.2222222222222223,
+    "epa_per_target": -0.4419826453085989,
+    "epa_per_rush": -0.0106951552326791,
+    "rush_success_rate": 0.4888888888888889
+  },
+  "L.Humphrey": {
+    "team": "NYG",
+    "targets": 10,
+    "target_share": 0.019762845849802372,
+    "yards_per_target": 5.878787878787879,
+    "epa_per_target": 0.29230635215857387
+  },
+  "L.Krull": {
+    "team": "DEN",
+    "targets": 4,
+    "target_share": 0.0060790273556231,
+    "yards_per_target": 3.75,
+    "epa_per_target": -0.5958334855386056
+  },
+  "M.Bandy": {
+    "team": "DEN",
+    "targets": 4,
+    "target_share": 0.0060790273556231,
+    "yards_per_target": 12.5,
+    "epa_per_target": 1.81497493525967
+  },
+  "M.Mims": {
+    "team": "DEN",
+    "targets": 65,
+    "rush_attempts": 12,
+    "target_share": 0.09878419452887538,
+    "yards_per_target": 7.338461538461538,
+    "epa_per_target": 0.19852105426930727,
+    "epa_per_rush": 0.42872442065466504,
+    "rush_success_rate": 0.5833333333333334
+  },
+  "N.Adkins": {
+    "team": "DEN",
+    "targets": 12,
+    "target_share": 0.0182370820668693,
+    "yards_per_target": 4.083333333333333,
+    "epa_per_target": -0.09970383904389261
+  },
+  "P.Bryant": {
+    "team": "DEN",
+    "targets": 53,
+    "rush_attempts": 1,
+    "target_share": 0.08054711246200608,
+    "yards_per_target": 7.773584905660377,
+    "epa_per_target": 0.29829895093246134,
+    "epa_per_rush": -0.3718132681096904,
+    "rush_success_rate": 0.0
+  },
+  "R.Harvey": {
+    "team": "DEN",
+    "targets": 70,
+    "rush_attempts": 166,
+    "target_share": 0.10638297872340426,
+    "yards_per_target": 6.057142857142857,
+    "epa_per_target": 0.23805626600896654,
+    "epa_per_rush": -0.16049556969665751,
+    "rush_success_rate": 0.35542168674698793
+  },
+  "T.Badie": {
+    "team": "DEN",
+    "targets": 33,
+    "rush_attempts": 9,
+    "target_share": 0.05015197568389058,
+    "yards_per_target": 4.484848484848484,
+    "epa_per_target": -0.01488438520962018,
+    "epa_per_rush": -0.35055652273873456,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "T.Franklin": {
+    "team": "DEN",
+    "targets": 107,
+    "rush_attempts": 5,
+    "target_share": 0.16261398176291794,
+    "yards_per_target": 6.682242990654205,
+    "epa_per_target": 0.09148157741991712,
+    "epa_per_rush": -0.34425965244881807,
+    "rush_success_rate": 0.4
+  },
+  "A.Firkser": {
+    "team": "DET",
+    "targets": 10,
+    "target_share": 0.01818181818181818,
+    "yards_per_target": 5.3,
+    "epa_per_target": 0.16356238306616433
+  },
+  "A.St. Brown": {
+    "team": "DET",
+    "targets": 172,
+    "rush_attempts": 3,
+    "target_share": 0.31272727272727274,
+    "yards_per_target": 8.209302325581396,
+    "epa_per_target": 0.323341373495086,
+    "epa_per_rush": 0.1856634149250264,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "B.Wright": {
+    "team": "DET",
+    "targets": 22,
+    "target_share": 0.04,
+    "yards_per_target": 4.909090909090909,
+    "epa_per_target": -0.08768295463497369
+  },
+  "D.Montgomery": {
+    "team": "DET",
+    "targets": 29,
+    "rush_attempts": 159,
+    "target_share": 0.05272727272727273,
+    "yards_per_target": 6.620689655172414,
+    "epa_per_target": 0.10792868189596293,
+    "epa_per_rush": 0.0029685333166710745,
+    "rush_success_rate": 0.4339622641509434
+  },
+  "G.Ricci": {
+    "team": "DET",
+    "targets": 1,
+    "target_share": 0.0018181818181818182,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.9018570889020339
+  },
+  "I.TeSlaa": {
+    "team": "DET",
+    "targets": 27,
+    "target_share": 0.04909090909090909,
+    "yards_per_target": 8.851851851851851,
+    "epa_per_target": 0.6604123311396364
+  },
+  "J.Gibbs": {
+    "team": "DET",
+    "targets": 94,
+    "rush_attempts": 243,
+    "target_share": 0.1709090909090909,
+    "yards_per_target": 6.5212765957446805,
+    "epa_per_target": 0.1888350136409748,
+    "epa_per_rush": -0.010975470745168161,
+    "rush_success_rate": 0.3991769547325103
+  },
+  "K.Raymond": {
+    "team": "DET",
+    "targets": 30,
+    "rush_attempts": 2,
+    "target_share": 0.05454545454545454,
+    "yards_per_target": 9.633333333333333,
+    "epa_per_target": 0.5068361005947739,
+    "epa_per_rush": 0.7775732697336935,
+    "rush_success_rate": 1.0
+  },
+  "R.Dwelley": {
+    "team": "DET",
+    "targets": 5,
+    "target_share": 0.00909090909090909,
+    "yards_per_target": 1.4,
+    "epa_per_target": -0.512859161326196
+  },
+  "S.LaPorta": {
+    "team": "DET",
+    "targets": 49,
+    "target_share": 0.0890909090909091,
+    "yards_per_target": 9.979591836734693,
+    "epa_per_target": 0.7434253533214469
+  },
+  "S.Zylstra": {
+    "team": "DET",
+    "targets": 5,
+    "target_share": 0.00909090909090909,
+    "yards_per_target": 4.0,
+    "epa_per_target": -0.3672234164085239
+  },
+  "T.Kennedy": {
+    "team": "DET",
+    "targets": 4,
+    "target_share": 0.007272727272727273,
+    "yards_per_target": 9.0,
+    "epa_per_target": 1.1256856495747343
+  },
+  "B.Melton": {
+    "team": "GB",
+    "targets": 13,
+    "rush_attempts": 5,
+    "target_share": 0.026,
+    "yards_per_target": 8.23076923076923,
+    "epa_per_target": -0.19832504768139467,
+    "epa_per_rush": 0.16953506681602448,
+    "rush_success_rate": 0.4
+  },
+  "C.Brooks": {
+    "team": "GB",
+    "targets": 18,
+    "rush_attempts": 28,
+    "target_share": 0.036,
+    "yards_per_target": 5.666666666666667,
+    "epa_per_target": -0.07679476003342861,
+    "epa_per_rush": -0.1485663580144896,
+    "rush_success_rate": 0.39285714285714285
+  },
+  "C.Watson": {
+    "team": "GB",
+    "targets": 62,
+    "rush_attempts": 1,
+    "target_share": 0.124,
+    "yards_per_target": 10.435483870967742,
+    "epa_per_target": 0.5945557905935408,
+    "epa_per_rush": -0.1850908612832427,
+    "rush_success_rate": 0.0
+  },
+  "D.Dabney": {
+    "team": "GB",
+    "targets": 2,
+    "target_share": 0.004,
+    "yards_per_target": 1.5,
+    "epa_per_target": -0.4208753484999761
+  },
+  "D.Kinnard": {
+    "team": "GB",
+    "targets": 1,
+    "target_share": 0.002,
+    "yards_per_target": 6.0,
+    "epa_per_target": 0.18734508589841425
+  },
+  "D.Wicks": {
+    "team": "GB",
+    "targets": 46,
+    "rush_attempts": 1,
+    "target_share": 0.092,
+    "yards_per_target": 7.217391304347826,
+    "epa_per_target": 0.307782246459321,
+    "epa_per_rush": 0.4941405840218067,
+    "rush_success_rate": 1.0
+  },
+  "E.Wilson": {
+    "team": "GB",
+    "targets": 18,
+    "rush_attempts": 126,
+    "target_share": 0.036,
+    "yards_per_target": 5.611111111111111,
+    "epa_per_target": 0.05657561167164614,
+    "epa_per_rush": -0.06242268942300495,
+    "rush_success_rate": 0.4365079365079365
+  },
+  "J.FitzPatrick": {
+    "team": "GB",
+    "targets": 15,
+    "target_share": 0.03,
+    "yards_per_target": 4.8,
+    "epa_per_target": 0.2507873897751172
+  },
+  "J.Jacobs": {
+    "team": "GB",
+    "targets": 47,
+    "rush_attempts": 253,
+    "target_share": 0.094,
+    "yards_per_target": 6.0638297872340425,
+    "epa_per_target": 0.22339645801837305,
+    "epa_per_rush": -0.07760112709314422,
+    "rush_success_rate": 0.4308300395256917
+  },
+  "J.Keeney-James": {
+    "team": "GB",
+    "targets": 2,
+    "target_share": 0.004,
+    "yards_per_target": 7.5,
+    "epa_per_target": -0.025227060192264616
+  },
+  "J.Reed": {
+    "team": "GB",
+    "targets": 29,
+    "rush_attempts": 4,
+    "target_share": 0.058,
+    "yards_per_target": 8.620689655172415,
+    "epa_per_target": 0.48946122775855383,
+    "epa_per_rush": 0.6143959485925734,
+    "rush_success_rate": 1.0
+  },
+  "J.Whyle": {
+    "team": "GB",
+    "targets": 7,
+    "target_share": 0.014,
+    "yards_per_target": 6.142857142857143,
+    "epa_per_target": 0.3619211975416202
+  },
+  "L.Musgrave": {
+    "team": "GB",
+    "targets": 33,
+    "target_share": 0.066,
+    "yards_per_target": 7.909090909090909,
+    "epa_per_target": 0.31147042847464257
+  },
+  "M.Golden": {
+    "team": "GB",
+    "targets": 49,
+    "rush_attempts": 10,
+    "target_share": 0.098,
+    "yards_per_target": 9.081632653061224,
+    "epa_per_target": 0.5011483222207508,
+    "epa_per_rush": 0.1679660340945702,
+    "rush_success_rate": 0.5
+  },
+  "M.Heath": {
+    "team": "GB",
+    "targets": 7,
+    "target_share": 0.014,
+    "yards_per_target": 12.285714285714286,
+    "epa_per_target": 0.9928322186603219
+  },
+  "R.Doubs": {
+    "team": "GB",
+    "targets": 97,
+    "target_share": 0.194,
+    "yards_per_target": 8.762886597938145,
+    "epa_per_target": 0.4909702896199764
+  },
+  "S.Williams": {
+    "team": "GB",
+    "targets": 10,
+    "rush_attempts": 11,
+    "target_share": 0.02,
+    "yards_per_target": 7.8,
+    "epa_per_target": 0.4625004964240361,
+    "epa_per_rush": -0.6357472841098736,
+    "rush_success_rate": 0.2727272727272727
+  },
+  "T.Kraft": {
+    "team": "GB",
+    "targets": 44,
+    "rush_attempts": 1,
+    "target_share": 0.088,
+    "yards_per_target": 11.113636363636363,
+    "epa_per_target": 0.8891790188757692,
+    "epa_per_rush": -0.6811154326424003,
+    "rush_success_rate": 0.0
+  },
+  "B.Berrios": {
+    "team": "HOU",
+    "targets": 8,
+    "target_share": 0.012618296529968454,
+    "yards_per_target": 4.625,
+    "epa_per_target": 0.29495500937628094
+  },
+  "C.Kirk": {
+    "team": "HOU",
+    "targets": 68,
+    "target_share": 0.10725552050473186,
+    "yards_per_target": 5.926470588235294,
+    "epa_per_target": -0.1526799546157518
+  },
+  "C.Stover": {
+    "team": "HOU",
+    "targets": 21,
+    "rush_attempts": 7,
+    "target_share": 0.033123028391167195,
+    "yards_per_target": 4.333333333333333,
+    "epa_per_target": 0.042577770801948474,
+    "epa_per_rush": -0.44724436925025657,
+    "rush_success_rate": 0.7142857142857143
+  },
+  "D.Ogunbowale": {
+    "team": "HOU",
+    "targets": 13,
+    "rush_attempts": 11,
+    "target_share": 0.02050473186119874,
+    "yards_per_target": 5.846153846153846,
+    "epa_per_target": -0.709776963751106,
+    "epa_per_rush": -0.33288596858743696,
+    "rush_success_rate": 0.2727272727272727
+  },
+  "D.Pierce": {
+    "team": "KC",
+    "targets": 1,
+    "rush_attempts": 4,
+    "target_share": 0.0018115942028985507,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.6312945219688118,
+    "epa_per_rush": -0.2769698849463436,
+    "rush_success_rate": 0.14285714285714285
+  },
+  "D.Schultz": {
+    "team": "HOU",
+    "targets": 113,
+    "target_share": 0.17823343848580442,
+    "yards_per_target": 7.398230088495575,
+    "epa_per_target": 0.3707239311952612
+  },
+  "H.Bryant": {
+    "team": "HOU",
+    "targets": 12,
+    "target_share": 0.01892744479495268,
+    "yards_per_target": 2.3333333333333335,
+    "epa_per_target": -0.3160894982574973
+  },
+  "J.Higgins": {
+    "team": "HOU",
+    "targets": 83,
+    "target_share": 0.1309148264984227,
+    "yards_per_target": 7.506024096385542,
+    "epa_per_target": 0.24518028469564848
+  },
+  "J.Jordan": {
+    "team": "HOU",
+    "targets": 7,
+    "rush_attempts": 43,
+    "target_share": 0.011041009463722398,
+    "yards_per_target": 4.857142857142857,
+    "epa_per_target": 0.04762922653130123,
+    "epa_per_rush": -0.20918220328418843,
+    "rush_success_rate": 0.2558139534883721
+  },
+  "J.Noel": {
+    "team": "HOU",
+    "targets": 37,
+    "rush_attempts": 6,
+    "target_share": 0.0583596214511041,
+    "yards_per_target": 7.891891891891892,
+    "epa_per_target": 0.3651548977094615,
+    "epa_per_rush": -0.5083522355222764,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "J.Watson": {
+    "team": "HOU",
+    "targets": 4,
+    "target_share": 0.006309148264984227,
+    "yards_per_target": 7.5,
+    "epa_per_target": 0.33787557326694795
+  },
+  "J.Wayne": {
+    "team": "HOU",
+    "targets": 2,
+    "target_share": 0.0031545741324921135,
+    "yards_per_target": 10.0,
+    "epa_per_target": 0.2972611977602355
+  },
+  "N.Chubb": {
+    "team": "HOU",
+    "targets": 21,
+    "rush_attempts": 136,
+    "target_share": 0.033123028391167195,
+    "yards_per_target": 3.1904761904761907,
+    "epa_per_target": -0.14393634512089193,
+    "epa_per_rush": -0.06343501222245349,
+    "rush_success_rate": 0.36764705882352944
+  },
+  "N.Collins": {
+    "team": "HOU",
+    "targets": 128,
+    "rush_attempts": 2,
+    "target_share": 0.20189274447949526,
+    "yards_per_target": 8.90625,
+    "epa_per_target": 0.2936696678611734,
+    "epa_per_rush": 0.997755180374952,
+    "rush_success_rate": 1.0
+  },
+  "W.Marks": {
+    "team": "HOU",
+    "targets": 40,
+    "rush_attempts": 229,
+    "target_share": 0.06309148264984227,
+    "yards_per_target": 5.675,
+    "epa_per_target": 0.16887564265772875,
+    "epa_per_rush": -0.15488822632818305,
+    "rush_success_rate": 0.3624454148471616
+  },
+  "X.Hutchinson": {
+    "team": "HOU",
+    "targets": 74,
+    "rush_attempts": 2,
+    "target_share": 0.1167192429022082,
+    "yards_per_target": 6.662162162162162,
+    "epa_per_target": -0.09727307383313338,
+    "epa_per_rush": 0.44257165829185396,
+    "rush_success_rate": 1.0
+  },
+  "A.Abdullah": {
+    "team": "IND",
+    "targets": 17,
+    "rush_attempts": 14,
+    "target_share": 0.03171641791044776,
+    "yards_per_target": 5.823529411764706,
+    "epa_per_target": 0.04786756604923593,
+    "epa_per_rush": 0.06771302034862206,
+    "rush_success_rate": 0.35714285714285715
+  },
+  "A.Dulin": {
+    "team": "IND",
+    "targets": 10,
+    "rush_attempts": 3,
+    "target_share": 0.018656716417910446,
+    "yards_per_target": 10.6,
+    "epa_per_target": 0.5759459519234952,
+    "epa_per_rush": 1.303522504827318,
+    "rush_success_rate": 1.0
+  },
+  "A.Gould": {
+    "team": "IND",
+    "targets": 2,
+    "target_share": 0.0037313432835820895,
+    "yards_per_target": 3.0,
+    "epa_per_target": -0.49491476276307367
+  },
+  "A.Mitchell": {
+    "team": "NYJ",
+    "targets": 58,
+    "rush_attempts": 1,
+    "target_share": 0.12159329140461216,
+    "yards_per_target": 6.121621621621622,
+    "epa_per_target": -0.21770400653188876,
+    "epa_per_rush": -1.1126403328380547,
+    "rush_success_rate": 0.0
+  },
+  "A.Ogletree": {
+    "team": "IND",
+    "targets": 6,
+    "target_share": 0.011194029850746268,
+    "yards_per_target": 4.5,
+    "epa_per_target": 0.21852879932460686
+  },
+  "A.Pierce": {
+    "team": "IND",
+    "targets": 84,
+    "target_share": 0.15671641791044777,
+    "yards_per_target": 11.94047619047619,
+    "epa_per_target": 0.6640370602194742
+  },
+  "A.Richardson": {
+    "team": "IND",
+    "targets": 1,
+    "rush_attempts": 1,
+    "target_share": 0.0018656716417910447,
+    "yards_per_target": 9.0,
+    "epa_per_target": 0.45754102151840925,
+    "epa_per_rush": 1.6908838767558336,
+    "rush_success_rate": 1.0
+  },
+  "B.Raimann": {
+    "team": "IND",
+    "targets": 1,
+    "target_share": 0.0018656716417910447,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.3657868691952899
+  },
+  "C.Owen": {
+    "team": "IND",
+    "targets": 1,
+    "target_share": 0.0018656716417910447,
+    "yards_per_target": 0.0,
+    "epa_per_target": -3.259766154224053
+  },
+  "D.Giddens": {
+    "team": "IND",
+    "targets": 2,
+    "rush_attempts": 26,
+    "target_share": 0.0037313432835820895,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.8288662426563429,
+    "epa_per_rush": 0.0007859029260893854,
+    "rush_success_rate": 0.4230769230769231
+  },
+  "J.Downs": {
+    "team": "IND",
+    "targets": 88,
+    "rush_attempts": 2,
+    "target_share": 0.16417910447761194,
+    "yards_per_target": 6.215909090909091,
+    "epa_per_target": 0.0983807974162833,
+    "epa_per_rush": -0.7608150494052097,
+    "rush_success_rate": 0.0
+  },
+  "J.Taylor": {
+    "team": "IND",
+    "targets": 56,
+    "rush_attempts": 324,
+    "target_share": 0.1044776119402985,
+    "yards_per_target": 6.75,
+    "epa_per_target": 0.16489367984702197,
+    "epa_per_rush": 0.05793714447483565,
+    "rush_success_rate": 0.4444444444444444
+  },
+  "M.Alie-Cox": {
+    "team": "IND",
+    "targets": 20,
+    "target_share": 0.03731343283582089,
+    "yards_per_target": 5.85,
+    "epa_per_target": -0.042963489663088696
+  },
+  "M.Pittman": {
+    "team": "IND",
+    "targets": 114,
+    "target_share": 0.2126865671641791,
+    "yards_per_target": 7.035087719298246,
+    "epa_per_target": 0.195777786749231
+  },
+  "T.Goodson": {
+    "team": "IND",
+    "targets": 3,
+    "rush_attempts": 9,
+    "target_share": 0.005597014925373134,
+    "yards_per_target": 2.6666666666666665,
+    "epa_per_target": -0.31532206721991923,
+    "epa_per_rush": -0.33130006559400094,
+    "rush_success_rate": 0.2222222222222222
+  },
+  "T.Warren": {
+    "team": "IND",
+    "targets": 114,
+    "rush_attempts": 6,
+    "target_share": 0.2126865671641791,
+    "yards_per_target": 7.166666666666667,
+    "epa_per_target": 0.13833657189872345,
+    "epa_per_rush": -0.7228924576823678,
+    "rush_success_rate": 0.5
+  },
+  "W.Mallory": {
+    "team": "IND",
+    "targets": 1,
+    "target_share": 0.0018656716417910447,
+    "yards_per_target": 16.0,
+    "epa_per_target": 1.5176577111706138
+  },
+  "A.Trammell": {
+    "team": "JAX",
+    "targets": 10,
+    "target_share": 0.017271157167530225,
+    "yards_per_target": 4.6,
+    "epa_per_target": -0.4970840585587128
+  },
+  "B.Strange": {
+    "team": "JAX",
+    "targets": 65,
+    "target_share": 0.11226252158894647,
+    "yards_per_target": 8.446153846153846,
+    "epa_per_target": 0.4562755630608216
+  },
+  "B.Thomas": {
+    "team": "JAX",
+    "targets": 93,
+    "rush_attempts": 3,
+    "target_share": 0.16062176165803108,
+    "yards_per_target": 7.827956989247312,
+    "epa_per_target": 0.2200840254826812,
+    "epa_per_rush": 0.9542272220132872,
+    "rush_success_rate": 1.0
+  },
+  "B.Tuten": {
+    "team": "JAX",
+    "targets": 14,
+    "rush_attempts": 88,
+    "target_share": 0.024179620034542316,
+    "yards_per_target": 5.642857142857143,
+    "epa_per_target": 0.39252971324770314,
+    "epa_per_rush": -0.0796155993863518,
+    "rush_success_rate": 0.4772727272727273
+  },
+  "D.Brown": {
+    "team": "JAX",
+    "targets": 37,
+    "rush_attempts": 6,
+    "target_share": 0.06390328151986183,
+    "yards_per_target": 6.135135135135135,
+    "epa_per_target": -0.05632216731309277,
+    "epa_per_rush": -0.11108787719664785,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "D.Dallas": {
+    "team": "JAX",
+    "targets": 1,
+    "rush_attempts": 2,
+    "target_share": 0.0017271157167530224,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.5493046132614836,
+    "epa_per_rush": -0.18580499331074143,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "H.Long": {
+    "team": "JAX",
+    "targets": 17,
+    "target_share": 0.02936096718480138,
+    "yards_per_target": 5.0,
+    "epa_per_target": 0.4569846110774533
+  },
+  "J.Meyers": {
+    "team": "JAX",
+    "targets": 49,
+    "rush_attempts": 5,
+    "target_share": 0.0846286701208981,
+    "yards_per_target": 7.4298245614035086,
+    "epa_per_target": 0.06044434367977009,
+    "epa_per_rush": -0.08141116814804264,
+    "rush_success_rate": 0.2
+  },
+  "J.Mundt": {
+    "team": "JAX",
+    "targets": 19,
+    "target_share": 0.03281519861830743,
+    "yards_per_target": 5.842105263157895,
+    "epa_per_target": 0.20922197593302516
+  },
+  "L.Allen": {
+    "team": "JAX",
+    "targets": 12,
+    "rush_attempts": 24,
+    "target_share": 0.02072538860103627,
+    "yards_per_target": 5.25,
+    "epa_per_target": -0.3166863405188007,
+    "epa_per_rush": -0.14707622847587723,
+    "rush_success_rate": 0.25
+  },
+  "P.Washington": {
+    "team": "JAX",
+    "targets": 109,
+    "rush_attempts": 9,
+    "target_share": 0.18825561312607944,
+    "yards_per_target": 8.752293577981652,
+    "epa_per_target": 0.2655778100618608,
+    "epa_per_rush": -0.26386989412914486,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "Q.Morris": {
+    "team": "JAX",
+    "targets": 9,
+    "target_share": 0.015544041450777202,
+    "yards_per_target": 6.111111111111111,
+    "epa_per_target": -0.06869044792256318
+  },
+  "T.Hunter": {
+    "team": "JAX",
+    "targets": 45,
+    "rush_attempts": 1,
+    "target_share": 0.07772020725388601,
+    "yards_per_target": 6.622222222222222,
+    "epa_per_target": -0.05126866922320297,
+    "epa_per_rush": -0.6611915401881561,
+    "rush_success_rate": 0.0
+  },
+  "T.Jones": {
+    "team": "JAX",
+    "targets": 1,
+    "target_share": 0.0017271157167530224,
+    "yards_per_target": 15.0,
+    "epa_per_target": 1.0751921531627886
+  },
+  "T.Patrick": {
+    "team": "JAX",
+    "targets": 25,
+    "target_share": 0.04317789291882556,
+    "yards_per_target": 7.48,
+    "epa_per_target": 0.21038238263644132
+  },
+  "B.Smith": {
+    "team": "KC",
+    "targets": 35,
+    "rush_attempts": 44,
+    "target_share": 0.06340579710144928,
+    "yards_per_target": 4.914285714285715,
+    "epa_per_target": -0.017628672758622812,
+    "epa_per_rush": -0.2214582477304661,
+    "rush_success_rate": 0.29545454545454547
+  },
+  "C.Edwards-Helaire": {
+    "team": "KC",
+    "targets": 2,
+    "rush_attempts": 7,
+    "target_share": 0.0036231884057971015,
+    "yards_per_target": 4.5,
+    "epa_per_target": 0.7787400571105536,
+    "epa_per_rush": -0.3800552205565119,
+    "rush_success_rate": 0.2857142857142857
+  },
+  "E.Mitchell": {
+    "team": "KC",
+    "targets": 1,
+    "target_share": 0.0018115942028985507,
+    "yards_per_target": 0.0,
+    "epa_per_target": -3.36506548570469
+  },
+  "I.Pacheco": {
+    "team": "KC",
+    "targets": 26,
+    "rush_attempts": 118,
+    "target_share": 0.04710144927536232,
+    "yards_per_target": 3.8846153846153846,
+    "epa_per_target": -0.17992051074799528,
+    "epa_per_rush": -0.11562197352907526,
+    "rush_success_rate": 0.3474576271186441
+  },
+  "J.Brownlee": {
+    "team": "KC",
+    "targets": 1,
+    "target_share": 0.0018115942028985507,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.7134253880445582
+  },
+  "J.Royals": {
+    "team": "KC",
+    "targets": 3,
+    "target_share": 0.005434782608695652,
+    "yards_per_target": 1.3333333333333333,
+    "epa_per_target": -0.5417430872330442
+  },
+  "J.Smith-Schuster": {
+    "team": "KC",
+    "targets": 45,
+    "target_share": 0.08152173913043478,
+    "yards_per_target": 7.666666666666667,
+    "epa_per_target": 0.05824612448819843
+  },
+  "J.Wiley": {
+    "team": "KC",
+    "targets": 1,
+    "target_share": 0.0018115942028985507,
+    "yards_per_target": 4.0,
+    "epa_per_target": 2.5656458348967135
+  },
+  "K.Hunt": {
+    "team": "KC",
+    "targets": 25,
+    "rush_attempts": 163,
+    "target_share": 0.04528985507246377,
+    "yards_per_target": 5.72,
+    "epa_per_target": 0.0553907882722339,
+    "epa_per_rush": 0.05932161593054073,
+    "rush_success_rate": 0.4785276073619632
+  },
+  "M.Brown": {
+    "team": "KC",
+    "targets": 74,
+    "target_share": 0.13405797101449277,
+    "yards_per_target": 7.9324324324324325,
+    "epa_per_target": 0.3019905857287263
+  },
+  "N.Gray": {
+    "team": "KC",
+    "targets": 38,
+    "target_share": 0.06884057971014493,
+    "yards_per_target": 4.684210526315789,
+    "epa_per_target": -0.1803768333120516
+  },
+  "N.Remigio": {
+    "team": "KC",
+    "targets": 1,
+    "rush_attempts": 1,
+    "target_share": 0.0018115942028985507,
+    "yards_per_target": 21.0,
+    "epa_per_target": 2.176661997975316,
+    "epa_per_rush": 0.6427091776859015,
+    "rush_success_rate": 1.0
+  },
+  "P.Mahomes": {
+    "team": "KC",
+    "targets": 1,
+    "rush_attempts": 3,
+    "target_share": 0.0018115942028985507,
+    "yards_per_target": -10.0,
+    "epa_per_target": -2.5388513491488993,
+    "epa_per_rush": 0.7681675405086329,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "R.Rice": {
+    "team": "KC",
+    "targets": 79,
+    "rush_attempts": 5,
+    "target_share": 0.1431159420289855,
+    "yards_per_target": 7.253164556962025,
+    "epa_per_target": 0.2027778235573823,
+    "epa_per_rush": 0.37250015707686546,
+    "rush_success_rate": 0.8
+  },
+  "R.Tonyan": {
+    "team": "KC",
+    "targets": 1,
+    "target_share": 0.0018115942028985507,
+    "yards_per_target": 1.0,
+    "epa_per_target": -0.5185336319264024
+  },
+  "T.Kelce": {
+    "team": "KC",
+    "targets": 109,
+    "rush_attempts": 1,
+    "target_share": 0.19746376811594202,
+    "yards_per_target": 7.825688073394495,
+    "epa_per_target": 0.370759208894021,
+    "epa_per_rush": -1.8751907240366563,
+    "rush_success_rate": 0.0
+  },
+  "T.Thornton": {
+    "team": "KC",
+    "targets": 37,
+    "target_share": 0.06702898550724638,
+    "yards_per_target": 11.837837837837839,
+    "epa_per_target": 0.7094089949408671
+  },
+  "X.Worthy": {
+    "team": "KC",
+    "targets": 73,
+    "rush_attempts": 11,
+    "target_share": 0.1322463768115942,
+    "yards_per_target": 7.287671232876712,
+    "epa_per_target": 0.2031234571041611,
+    "epa_per_rush": 0.32589006769492035,
+    "rush_success_rate": 0.6363636363636364
+  },
+  "B.Corum": {
+    "team": "LA",
+    "targets": 19,
+    "rush_attempts": 171,
+    "target_share": 0.027259684361549498,
+    "yards_per_target": 3.8421052631578947,
+    "epa_per_target": -0.29009840496827993,
+    "epa_per_rush": 0.08356707359065726,
+    "rush_success_rate": 0.5029239766081871
+  },
+  "C.Parkinson": {
+    "team": "LA",
+    "targets": 70,
+    "target_share": 0.10043041606886657,
+    "yards_per_target": 8.0,
+    "epa_per_target": 0.29947234475253115
+  },
+  "D.Adams": {
+    "team": "LA",
+    "targets": 139,
+    "target_share": 0.1994261119081779,
+    "yards_per_target": 7.0071942446043165,
+    "epa_per_target": 0.22666977280815295
+  },
+  "D.Allen": {
+    "team": "LA",
+    "targets": 33,
+    "target_share": 0.047345767575322814,
+    "yards_per_target": 6.303030303030303,
+    "epa_per_target": 0.16381849976482266
+  },
+  "J.Whittington": {
+    "team": "LA",
+    "targets": 27,
+    "rush_attempts": 4,
+    "target_share": 0.03873744619799139,
+    "yards_per_target": 7.62962962962963,
+    "epa_per_target": 0.2087988946831852,
+    "epa_per_rush": -0.059334183868486434,
+    "rush_success_rate": 0.5
+  },
+  "K.Mumpfield": {
+    "team": "LA",
+    "targets": 29,
+    "target_share": 0.04160688665710186,
+    "yards_per_target": 3.9310344827586206,
+    "epa_per_target": -0.4060598310326251
+  },
+  "P.Nacua": {
+    "team": "LA",
+    "targets": 208,
+    "rush_attempts": 16,
+    "target_share": 0.2984218077474892,
+    "yards_per_target": 9.841346153846153,
+    "epa_per_target": 0.623530902429125,
+    "epa_per_rush": 0.7965647040582553,
+    "rush_success_rate": 0.625
+  },
+  "R.Rivers": {
+    "team": "LA",
+    "targets": 1,
+    "rush_attempts": 9,
+    "target_share": 0.0014347202295552368,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.626336372224614,
+    "epa_per_rush": -0.12146897670916385,
+    "rush_success_rate": 0.5555555555555556
+  },
+  "T.Atwell": {
+    "team": "LA",
+    "targets": 15,
+    "target_share": 0.021520803443328552,
+    "yards_per_target": 12.8,
+    "epa_per_target": 0.18503463717131427
+  },
+  "T.Ferguson": {
+    "team": "LA",
+    "targets": 31,
+    "rush_attempts": 1,
+    "target_share": 0.04447632711621234,
+    "yards_per_target": 8.064516129032258,
+    "epa_per_target": 0.12204359065021454,
+    "epa_per_rush": -1.5493906475021504,
+    "rush_success_rate": 0.0
+  },
+  "T.Higbee": {
+    "team": "LA",
+    "targets": 42,
+    "target_share": 0.06025824964131994,
+    "yards_per_target": 8.69047619047619,
+    "epa_per_target": 0.2502310035887738
+  },
+  "X.Smith": {
+    "team": "LA",
+    "targets": 24,
+    "target_share": 0.03443328550932568,
+    "yards_per_target": 12.625,
+    "epa_per_target": 0.9139558327733539
+  },
+  "A.Johnson": {
+    "team": "LAC",
+    "targets": 1,
+    "rush_attempts": 2,
+    "target_share": 0.0017421602787456446,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.741847567493096,
+    "epa_per_rush": -0.026637402013875544,
+    "rush_success_rate": 0.5
+  },
+  "D.Davis": {
+    "team": "LAC",
+    "targets": 3,
+    "rush_attempts": 2,
+    "target_share": 0.005226480836236934,
+    "yards_per_target": 3.3333333333333335,
+    "epa_per_target": -0.3419401483455052,
+    "epa_per_rush": -0.3107440323510673,
+    "rush_success_rate": 0.0
+  },
+  "H.Haskins": {
+    "team": "LAC",
+    "targets": 4,
+    "rush_attempts": 17,
+    "target_share": 0.006968641114982578,
+    "yards_per_target": 3.25,
+    "epa_per_target": -0.37835982791148126,
+    "epa_per_rush": -0.16984018740614,
+    "rush_success_rate": 0.17647058823529413
+  },
+  "J.Patterson": {
+    "team": "LAC",
+    "targets": 4,
+    "rush_attempts": 41,
+    "target_share": 0.006968641114982578,
+    "yards_per_target": 2.0,
+    "epa_per_target": -0.4041077276633587,
+    "epa_per_rush": -0.03557409416884933,
+    "rush_success_rate": 0.3902439024390244
+  },
+  "K.Allen": {
+    "team": "LAC",
+    "targets": 130,
+    "target_share": 0.2264808362369338,
+    "yards_per_target": 6.1692307692307695,
+    "epa_per_target": 0.22987629327804537
+  },
+  "K.Lambert-Smith": {
+    "team": "LAC",
+    "targets": 12,
+    "target_share": 0.020905923344947737,
+    "yards_per_target": 4.25,
+    "epa_per_target": -0.40965723405894056
+  },
+  "K.Vidal": {
+    "team": "LAC",
+    "targets": 25,
+    "rush_attempts": 166,
+    "target_share": 0.04355400696864112,
+    "yards_per_target": 6.24,
+    "epa_per_target": 0.008290226514888506,
+    "epa_per_rush": -0.10098079930670727,
+    "rush_success_rate": 0.3493975903614458
+  },
+  "L.McConkey": {
+    "team": "LAC",
+    "targets": 110,
+    "target_share": 0.1916376306620209,
+    "yards_per_target": 7.463636363636364,
+    "epa_per_target": 0.0761118080682177
+  },
+  "N.Harris": {
+    "team": "LAC",
+    "targets": 3,
+    "rush_attempts": 15,
+    "target_share": 0.005226480836236934,
+    "yards_per_target": 8.333333333333334,
+    "epa_per_target": 0.4372766373368601,
+    "epa_per_rush": -0.022588586046670873,
+    "rush_success_rate": 0.4666666666666667
+  },
+  "O.Gadsden": {
+    "team": "LAC",
+    "targets": 72,
+    "target_share": 0.1254355400696864,
+    "yards_per_target": 9.63888888888889,
+    "epa_per_target": 0.26951648668630035
+  },
+  "O.Hampton": {
+    "team": "LAC",
+    "targets": 35,
+    "rush_attempts": 125,
+    "target_share": 0.06097560975609756,
+    "yards_per_target": 5.485714285714286,
+    "epa_per_target": -0.016898636671248822,
+    "epa_per_rush": -0.01180427324125984,
+    "rush_success_rate": 0.416
+  },
+  "Q.Johnston": {
+    "team": "LAC",
+    "targets": 90,
+    "rush_attempts": 2,
+    "target_share": 0.156794425087108,
+    "yards_per_target": 8.38888888888889,
+    "epa_per_target": 0.25157768166516675,
+    "epa_per_rush": -0.18522899778326973,
+    "rush_success_rate": 0.5
+  },
+  "S.Matlock": {
+    "team": "LAC",
+    "targets": 4,
+    "target_share": 0.006968641114982578,
+    "yards_per_target": 3.0,
+    "epa_per_target": 0.19611274835187942
+  },
+  "T.Conklin": {
+    "team": "LAC",
+    "targets": 10,
+    "rush_attempts": 1,
+    "target_share": 0.017421602787456445,
+    "yards_per_target": 10.1,
+    "epa_per_target": -0.3679633868704738,
+    "epa_per_rush": 0.5390934753813781,
+    "rush_success_rate": 1.0
+  },
+  "T.Fisk": {
+    "team": "LAC",
+    "targets": 7,
+    "target_share": 0.012195121951219513,
+    "yards_per_target": 4.428571428571429,
+    "epa_per_target": -0.1548446132385704
+  },
+  "T.Harris": {
+    "team": "LAC",
+    "targets": 46,
+    "rush_attempts": 2,
+    "target_share": 0.08013937282229965,
+    "yards_per_target": 7.478260869565218,
+    "epa_per_target": 0.3550013842502305,
+    "epa_per_rush": -0.0059855997387785465,
+    "rush_success_rate": 0.5
+  },
+  "T.Penning": {
+    "team": "LAC",
+    "targets": 1,
+    "target_share": 0.0017421602787456446,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.9967377239954658
+  },
+  "W.Dissly": {
+    "team": "LAC",
+    "targets": 16,
+    "target_share": 0.027874564459930314,
+    "yards_per_target": 6.0625,
+    "epa_per_target": 0.17502030752557615
+  },
+  "A.Bachman": {
+    "team": "LV",
+    "targets": 3,
+    "target_share": 0.006048387096774193,
+    "yards_per_target": 4.0,
+    "epa_per_target": 0.3550096611919192
+  },
+  "A.Cappa": {
+    "team": "LV",
+    "targets": 1,
+    "target_share": 0.0020161290322580645,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.3397870389162563
+  },
+  "A.Jeanty": {
+    "team": "LV",
+    "targets": 73,
+    "rush_attempts": 267,
+    "target_share": 0.14717741935483872,
+    "yards_per_target": 4.739726027397261,
+    "epa_per_target": -0.1626947364633111,
+    "epa_per_rush": -0.244123735477325,
+    "rush_success_rate": 0.31835205992509363
+  },
+  "A.Okwuegbunam": {
+    "team": "LV",
+    "targets": 6,
+    "target_share": 0.012096774193548387,
+    "yards_per_target": 6.0,
+    "epa_per_target": 0.2694182837634192
+  },
+  "B.Bowers": {
+    "team": "LV",
+    "targets": 87,
+    "rush_attempts": 2,
+    "target_share": 0.17540322580645162,
+    "yards_per_target": 7.839080459770115,
+    "epa_per_target": 0.26836196153092723,
+    "epa_per_rush": -0.5771839927183464,
+    "rush_success_rate": 0.5
+  },
+  "C.Runyon": {
+    "team": "LV",
+    "targets": 1,
+    "target_share": 0.0020161290322580645,
+    "yards_per_target": 3.0,
+    "epa_per_target": -0.22386213392019272
+  },
+  "D.Laube": {
+    "team": "LV",
+    "targets": 4,
+    "rush_attempts": 7,
+    "target_share": 0.008064516129032258,
+    "yards_per_target": 4.5,
+    "epa_per_target": -0.19746694577042945,
+    "epa_per_rush": -0.7668273589723478,
+    "rush_success_rate": 0.14285714285714285
+  },
+  "D.Thornton": {
+    "team": "LV",
+    "targets": 30,
+    "target_share": 0.06048387096774194,
+    "yards_per_target": 4.5,
+    "epa_per_target": -0.40127759047088496
+  },
+  "I.Thomas": {
+    "team": "LV",
+    "targets": 13,
+    "target_share": 0.02620967741935484,
+    "yards_per_target": 8.76923076923077,
+    "epa_per_target": 0.3902573798281642
+  },
+  "J.Bech": {
+    "team": "LV",
+    "targets": 29,
+    "target_share": 0.05846774193548387,
+    "yards_per_target": 7.724137931034483,
+    "epa_per_target": -0.07001934884513518
+  },
+  "M.Mayer": {
+    "team": "LV",
+    "targets": 50,
+    "target_share": 0.10080645161290322,
+    "yards_per_target": 6.56,
+    "epa_per_target": -0.1968367652389679
+  },
+  "R.Mostert": {
+    "team": "LV",
+    "targets": 12,
+    "rush_attempts": 22,
+    "target_share": 0.024193548387096774,
+    "yards_per_target": 5.833333333333333,
+    "epa_per_target": 0.12172285415969479,
+    "epa_per_rush": -0.4116020666239114,
+    "rush_success_rate": 0.3181818181818182
+  },
+  "S.Jackson": {
+    "team": "LV",
+    "targets": 5,
+    "rush_attempts": 1,
+    "target_share": 0.010080645161290322,
+    "yards_per_target": 11.2,
+    "epa_per_target": 0.9005760234082117,
+    "epa_per_rush": -0.354833202669397,
+    "rush_success_rate": 0.0
+  },
+  "T.Lockett": {
+    "team": "TEN",
+    "targets": 21,
+    "target_share": 0.03962264150943396,
+    "yards_per_target": 5.196428571428571,
+    "epa_per_target": -0.1526033219877621
+  },
+  "T.Tucker": {
+    "team": "LV",
+    "targets": 92,
+    "rush_attempts": 11,
+    "target_share": 0.18548387096774194,
+    "yards_per_target": 7.565217391304348,
+    "epa_per_target": 0.2371616587226847,
+    "epa_per_rush": -0.0426849593217908,
+    "rush_success_rate": 0.45454545454545453
+  },
+  "Z.White": {
+    "team": "LV",
+    "targets": 6,
+    "rush_attempts": 12,
+    "target_share": 0.012096774193548387,
+    "yards_per_target": 4.0,
+    "epa_per_target": -0.30947989710801665,
+    "epa_per_rush": -0.6309611847876416,
+    "rush_success_rate": 0.08333333333333333
+  },
+  "A.Ingold": {
+    "team": "MIA",
+    "targets": 11,
+    "rush_attempts": 2,
+    "target_share": 0.023655913978494623,
+    "yards_per_target": 4.7272727272727275,
+    "epa_per_target": -0.03378536141562191,
+    "epa_per_rush": 0.22543564293300733,
+    "rush_success_rate": 0.5
+  },
+  "C.Wilson": {
+    "team": "MIA",
+    "targets": 9,
+    "target_share": 0.01935483870967742,
+    "yards_per_target": 4.888888888888889,
+    "epa_per_target": -0.2460346476226631
+  },
+  "D.Achane": {
+    "team": "MIA",
+    "targets": 85,
+    "rush_attempts": 238,
+    "target_share": 0.1827956989247312,
+    "yards_per_target": 5.658823529411765,
+    "epa_per_target": -0.12032796307594144,
+    "epa_per_rush": 0.058986772922709596,
+    "rush_success_rate": 0.38235294117647056
+  },
+  "D.Eskridge": {
+    "team": "MIA",
+    "targets": 7,
+    "target_share": 0.015053763440860216,
+    "yards_per_target": 8.857142857142858,
+    "epa_per_target": 0.4351237101114488
+  },
+  "D.Waller": {
+    "team": "MIA",
+    "targets": 35,
+    "rush_attempts": 1,
+    "target_share": 0.07526881720430108,
+    "yards_per_target": 8.085714285714285,
+    "epa_per_target": 0.8076067147606053,
+    "epa_per_rush": 0.36744584736879915,
+    "rush_success_rate": 1.0
+  },
+  "G.Dulcich": {
+    "team": "MIA",
+    "targets": 34,
+    "rush_attempts": 1,
+    "target_share": 0.07311827956989247,
+    "yards_per_target": 9.852941176470589,
+    "epa_per_target": 0.5150349497480989,
+    "epa_per_rush": -1.6294796523992647,
+    "rush_success_rate": 0.0
+  },
+  "J.Waddle": {
+    "team": "MIA",
+    "targets": 100,
+    "rush_attempts": 2,
+    "target_share": 0.21505376344086022,
+    "yards_per_target": 9.1,
+    "epa_per_target": 0.3445166005579873,
+    "epa_per_rush": 0.9647578316507861,
+    "rush_success_rate": 1.0
+  },
+  "J.Wright": {
+    "team": "SEA",
+    "targets": 9,
+    "rush_attempts": 5,
+    "target_share": 0.016574585635359115,
+    "yards_per_target": 4.888888888888889,
+    "epa_per_target": -0.18582802857797806,
+    "epa_per_rush": -0.07539244651221928,
+    "rush_success_rate": 0.4666666666666667
+  },
+  "M.Washington": {
+    "team": "MIA",
+    "targets": 65,
+    "rush_attempts": 17,
+    "target_share": 0.13978494623655913,
+    "yards_per_target": 4.984615384615385,
+    "epa_per_target": -0.1511670351278564,
+    "epa_per_rush": 0.006882028524106478,
+    "rush_success_rate": 0.47058823529411764
+  },
+  "N.Westbrook-Ikhine": {
+    "team": "MIA",
+    "targets": 20,
+    "target_share": 0.043010752688172046,
+    "yards_per_target": 4.45,
+    "epa_per_target": 0.05810697702690959
+  },
+  "O.Gordon": {
+    "team": "MIA",
+    "targets": 9,
+    "rush_attempts": 70,
+    "target_share": 0.01935483870967742,
+    "yards_per_target": 3.5555555555555554,
+    "epa_per_target": -0.3829309718696297,
+    "epa_per_rush": -0.13673119713787765,
+    "rush_success_rate": 0.4
+  },
+  "Q.Ewers": {
+    "team": "MIA",
+    "targets": 1,
+    "rush_attempts": 3,
+    "target_share": 0.002150537634408602,
+    "yards_per_target": -6.0,
+    "epa_per_target": -1.5018550147651695,
+    "epa_per_rush": -1.6566166163344558,
+    "rush_success_rate": 0.0
+  },
+  "T.Conner": {
+    "team": "MIA",
+    "targets": 15,
+    "target_share": 0.03225806451612903,
+    "yards_per_target": 6.066666666666666,
+    "epa_per_target": -0.43389001771962893
+  },
+  "T.Hill": {
+    "team": "NO",
+    "targets": 16,
+    "rush_attempts": 52,
+    "target_share": 0.028268551236749116,
+    "yards_per_target": 7.911111111111111,
+    "epa_per_target": 0.4315130988291713,
+    "epa_per_rush": -0.27343755261463437,
+    "rush_success_rate": 0.36538461538461536
+  },
+  "T.Washington": {
+    "team": "MIA",
+    "targets": 5,
+    "target_share": 0.010752688172043012,
+    "yards_per_target": 7.4,
+    "epa_per_target": -1.065309912036173
+  },
+  "T.Wease": {
+    "team": "MIA",
+    "targets": 10,
+    "target_share": 0.021505376344086023,
+    "yards_per_target": 13.9,
+    "epa_per_target": 0.2137158262950834
+  },
+  "A.Jones": {
+    "team": "MIN",
+    "targets": 41,
+    "rush_attempts": 132,
+    "target_share": 0.08686440677966102,
+    "yards_per_target": 4.853658536585366,
+    "epa_per_target": -0.18416417913420727,
+    "epa_per_rush": -0.017990304987186387,
+    "rush_success_rate": 0.4318181818181818
+  },
+  "A.Thielen": {
+    "team": "PIT",
+    "targets": 19,
+    "target_share": 0.03423423423423423,
+    "yards_per_target": 5.605263157894737,
+    "epa_per_target": 0.2322024193015685
+  },
+  "B.Sims": {
+    "team": "MIN",
+    "targets": 6,
+    "target_share": 0.012711864406779662,
+    "yards_per_target": 5.0,
+    "epa_per_target": 0.12221309431576326
+  },
+  "B.Yurosek": {
+    "team": "MIN",
+    "targets": 3,
+    "target_share": 0.006355932203389831,
+    "yards_per_target": 4.666666666666667,
+    "epa_per_target": 0.1158807195412616
+  },
+  "C.Akers": {
+    "team": "MIN",
+    "targets": 1,
+    "rush_attempts": 5,
+    "target_share": 0.00211864406779661,
+    "yards_per_target": 0.0,
+    "epa_per_target": -1.4301598633173853,
+    "epa_per_rush": -0.18294017281150446,
+    "rush_success_rate": 0.4
+  },
+  "C.Ham": {
+    "team": "MIN",
+    "targets": 2,
+    "rush_attempts": 3,
+    "target_share": 0.00423728813559322,
+    "yards_per_target": 5.5,
+    "epa_per_target": 0.3743426637374796,
+    "epa_per_rush": 0.5985700232461871,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "J.Addison": {
+    "team": "MIN",
+    "targets": 79,
+    "rush_attempts": 2,
+    "target_share": 0.1673728813559322,
+    "yards_per_target": 7.7215189873417724,
+    "epa_per_target": 0.17708065165712772,
+    "epa_per_rush": 3.8954767708492,
+    "rush_success_rate": 1.0
+  },
+  "J.Jefferson": {
+    "team": "MIN",
+    "targets": 142,
+    "rush_attempts": 2,
+    "target_share": 0.3008474576271186,
+    "yards_per_target": 7.380281690140845,
+    "epa_per_target": -0.09738508616904024,
+    "epa_per_rush": -0.028359665884636343,
+    "rush_success_rate": 0.5
+  },
+  "J.Mason": {
+    "team": "MIN",
+    "targets": 16,
+    "rush_attempts": 159,
+    "target_share": 0.03389830508474576,
+    "yards_per_target": 3.1875,
+    "epa_per_target": -0.28798331852309567,
+    "epa_per_rush": -0.036311034392309226,
+    "rush_success_rate": 0.46540880503144655
+  },
+  "J.Nailor": {
+    "team": "MIN",
+    "targets": 54,
+    "rush_attempts": 2,
+    "target_share": 0.11440677966101695,
+    "yards_per_target": 8.25925925925926,
+    "epa_per_target": 0.2141220202834129,
+    "epa_per_rush": -0.6360025446629152,
+    "rush_success_rate": 0.5
+  },
+  "J.Oliver": {
+    "team": "MIN",
+    "targets": 20,
+    "target_share": 0.0423728813559322,
+    "yards_per_target": 8.0,
+    "epa_per_target": 0.5266724550856511
+  },
+  "T.Chandler": {
+    "team": "MIN",
+    "targets": 4,
+    "rush_attempts": 17,
+    "target_share": 0.00847457627118644,
+    "yards_per_target": 2.75,
+    "epa_per_target": -0.20975130611096393,
+    "epa_per_rush": -0.3239011471022797,
+    "rush_success_rate": 0.17647058823529413
+  },
+  "T.Felton": {
+    "team": "MIN",
+    "targets": 3,
+    "target_share": 0.006355932203389831,
+    "yards_per_target": 8.333333333333334,
+    "epa_per_target": 0.4606610828389724
+  },
+  "T.Hockenson": {
+    "team": "MIN",
+    "targets": 66,
+    "rush_attempts": 1,
+    "target_share": 0.13983050847457626,
+    "yards_per_target": 6.636363636363637,
+    "epa_per_target": 0.2135676584525842,
+    "epa_per_rush": -1.1067849059472792,
+    "rush_success_rate": 0.0
+  },
+  "Z.Scott": {
+    "team": "MIN",
+    "targets": 16,
+    "rush_attempts": 32,
+    "target_share": 0.03389830508474576,
+    "yards_per_target": 6.125,
+    "epa_per_target": -0.047653310579335084,
+    "epa_per_rush": -0.2812386848763708,
+    "rush_success_rate": 0.40625
+  },
+  "A.Gibson": {
+    "team": "NE",
+    "targets": 3,
+    "rush_attempts": 25,
+    "target_share": 0.005016722408026756,
+    "yards_per_target": 2.0,
+    "epa_per_target": -0.41167441685684025,
+    "epa_per_rush": -0.18806073670974002,
+    "rush_success_rate": 0.44
+  },
+  "A.Hooper": {
+    "team": "NE",
+    "targets": 33,
+    "target_share": 0.05518394648829431,
+    "yards_per_target": 8.696969696969697,
+    "epa_per_target": 0.34942186697717814
+  },
+  "D.Douglas": {
+    "team": "NE",
+    "targets": 58,
+    "rush_attempts": 7,
+    "target_share": 0.09698996655518395,
+    "yards_per_target": 9.155172413793103,
+    "epa_per_target": 0.5346464858642148,
+    "epa_per_rush": -0.13817756983917207,
+    "rush_success_rate": 0.42857142857142855
+  },
+  "D.Maye": {
+    "team": "NE",
+    "targets": 2,
+    "rush_attempts": 28,
+    "target_share": 0.0033444816053511705,
+    "yards_per_target": 1.0,
+    "epa_per_target": -1.486441424523946,
+    "epa_per_rush": -0.27029426330785106,
+    "rush_success_rate": 0.4642857142857143
+  },
+  "E.Chism": {
+    "team": "NE",
+    "targets": 4,
+    "target_share": 0.006688963210702341,
+    "yards_per_target": 23.75,
+    "epa_per_target": 2.2362073161639273
+  },
+  "H.Henry": {
+    "team": "NE",
+    "targets": 103,
+    "target_share": 0.17224080267558528,
+    "yards_per_target": 8.54368932038835,
+    "epa_per_target": 0.4157191972358694
+  },
+  "J.Westover": {
+    "team": "NE",
+    "targets": 3,
+    "target_share": 0.005016722408026756,
+    "yards_per_target": 2.6666666666666665,
+    "epa_per_target": 0.0567124760709703
+  },
+  "K.Boutte": {
+    "team": "NE",
+    "targets": 66,
+    "target_share": 0.11036789297658862,
+    "yards_per_target": 10.893939393939394,
+    "epa_per_target": 0.4917821611134876
+  },
+  "M.Hollins": {
+    "team": "NE",
+    "targets": 75,
+    "rush_attempts": 1,
+    "target_share": 0.1254180602006689,
+    "yards_per_target": 9.053333333333333,
+    "epa_per_target": 0.476798542337752,
+    "epa_per_rush": -0.22416954231448472,
+    "rush_success_rate": 0.0
+  },
+  "R.Stevenson": {
+    "team": "NE",
+    "targets": 53,
+    "rush_attempts": 189,
+    "target_share": 0.08862876254180602,
+    "yards_per_target": 8.924528301886792,
+    "epa_per_target": 0.34689538217104376,
+    "epa_per_rush": -0.13644962200821695,
+    "rush_success_rate": 0.35978835978835977
+  },
+  "S.Diggs": {
+    "team": "NE",
+    "targets": 122,
+    "target_share": 0.2040133779264214,
+    "yards_per_target": 9.204918032786885,
+    "epa_per_target": 0.5844992750562178
+  },
+  "T.Henderson": {
+    "team": "NE",
+    "targets": 48,
+    "rush_attempts": 210,
+    "target_share": 0.0802675585284281,
+    "yards_per_target": 5.291666666666667,
+    "epa_per_target": -0.01698677583066706,
+    "epa_per_rush": -0.013092913342597202,
+    "rush_success_rate": 0.3904761904761905
+  },
+  "T.Jennings": {
+    "team": "NE",
+    "targets": 1,
+    "rush_attempts": 23,
+    "target_share": 0.0016722408026755853,
+    "yards_per_target": 9.0,
+    "epa_per_target": 0.6562925265170634,
+    "epa_per_rush": 0.104000306177034,
+    "rush_success_rate": 0.34782608695652173
+  },
+  "A.Estime": {
+    "team": "NO",
+    "targets": 13,
+    "rush_attempts": 46,
+    "target_share": 0.022968197879858657,
+    "yards_per_target": 7.923076923076923,
+    "epa_per_target": 0.29022640850430786,
+    "epa_per_rush": 0.10191689854052485,
+    "rush_success_rate": 0.43478260869565216
+  },
+  "A.Kamara": {
+    "team": "NO",
+    "targets": 39,
+    "rush_attempts": 131,
+    "target_share": 0.06890459363957598,
+    "yards_per_target": 4.769230769230769,
+    "epa_per_target": -0.2992751366381145,
+    "epa_per_rush": -0.21965627940333043,
+    "rush_success_rate": 0.32061068702290074
+  },
+  "C.Olave": {
+    "team": "NO",
+    "targets": 156,
+    "rush_attempts": 1,
+    "target_share": 0.2756183745583039,
+    "yards_per_target": 7.455128205128205,
+    "epa_per_target": 0.2283933478378578,
+    "epa_per_rush": -1.253101927228272,
+    "rush_success_rate": 0.0
+  },
+  "D.Neal": {
+    "team": "NO",
+    "targets": 19,
+    "rush_attempts": 57,
+    "target_share": 0.03356890459363958,
+    "yards_per_target": 5.473684210526316,
+    "epa_per_target": -0.11723395211300011,
+    "epa_per_rush": -0.13804195024197707,
+    "rush_success_rate": 0.3508771929824561
+  },
+  "D.Pettis": {
+    "team": "NO",
+    "targets": 11,
+    "target_share": 0.019434628975265017,
+    "yards_per_target": 11.545454545454545,
+    "epa_per_target": -0.3666043961790985
+  },
+  "D.Vele": {
+    "team": "NO",
+    "targets": 40,
+    "target_share": 0.0706713780918728,
+    "yards_per_target": 7.325,
+    "epa_per_target": 0.42028863055784604
+  },
+  "E.Hull": {
+    "team": "NO",
+    "targets": 1,
+    "rush_attempts": 19,
+    "target_share": 0.0017667844522968198,
+    "yards_per_target": 6.0,
+    "epa_per_target": 0.15124037815257907,
+    "epa_per_rush": -0.4062075979339792,
+    "rush_success_rate": 0.15789473684210525
+  },
+  "F.Moreau": {
+    "team": "NO",
+    "targets": 10,
+    "target_share": 0.0176678445229682,
+    "yards_per_target": 5.9,
+    "epa_per_target": -0.3735705005470663
+  },
+  "J.Johnson": {
+    "team": "WAS",
+    "targets": 102,
+    "rush_attempts": 3,
+    "target_share": 0.23394495412844038,
+    "yards_per_target": 8.715686274509803,
+    "epa_per_target": 0.3452590313654281,
+    "epa_per_rush": -2.4988887601648457,
+    "rush_success_rate": 0.0
+  },
+  "J.Stoll": {
+    "team": "NO",
+    "targets": 11,
+    "target_share": 0.019434628975265017,
+    "yards_per_target": 4.181818181818182,
+    "epa_per_target": -0.45764845950444316
+  },
+  "K.Austin": {
+    "team": "NO",
+    "targets": 23,
+    "target_share": 0.04063604240282685,
+    "yards_per_target": 6.086956521739131,
+    "epa_per_target": 0.014836954193444205
+  },
+  "K.Miller": {
+    "team": "NO",
+    "targets": 5,
+    "rush_attempts": 47,
+    "target_share": 0.0088339222614841,
+    "yards_per_target": 6.0,
+    "epa_per_target": -0.07337717823684216,
+    "epa_per_rush": -0.062275658766590455,
+    "rush_success_rate": 0.40425531914893614
+  },
+  "M.Matavao": {
+    "team": "NO",
+    "targets": 2,
+    "target_share": 0.0035335689045936395,
+    "yards_per_target": 5.0,
+    "epa_per_target": 0.09318458323832601
+  },
+  "M.Tipton": {
+    "team": "NO",
+    "targets": 17,
+    "rush_attempts": 4,
+    "target_share": 0.030035335689045935,
+    "yards_per_target": 4.470588235294118,
+    "epa_per_target": -0.4388674606918115,
+    "epa_per_rush": -0.3447967996180523,
+    "rush_success_rate": 0.5
+  },
+  "R.Bell": {
+    "team": "NO",
+    "targets": 4,
+    "target_share": 0.007067137809187279,
+    "yards_per_target": 5.75,
+    "epa_per_target": 0.2970030556753045
+  },
+  "R.Shaheed": {
+    "team": "SEA",
+    "targets": 36,
+    "rush_attempts": 11,
+    "target_share": 0.06629834254143646,
+    "yards_per_target": 7.5,
+    "epa_per_target": -0.04216186820891275,
+    "epa_per_rush": -0.04587138869996684,
+    "rush_success_rate": 0.46153846153846156
+  },
+  "S.Rattler": {
+    "team": "NO",
+    "targets": 2,
+    "rush_attempts": 15,
+    "target_share": 0.0035335689045936395,
+    "yards_per_target": 0.0,
+    "epa_per_target": -2.5462494734092616,
+    "epa_per_rush": 0.05321677840063348,
+    "rush_success_rate": 0.6
+  },
+  "S.Toure": {
+    "team": "NO",
+    "targets": 3,
+    "target_share": 0.00530035335689046,
+    "yards_per_target": 1.0,
+    "epa_per_target": -2.895059900241904
+  },
+  "B.Collins": {
+    "team": "NYG",
+    "targets": 6,
+    "target_share": 0.011857707509881422,
+    "yards_per_target": 4.166666666666667,
+    "epa_per_target": -0.9574259044117449
+  },
+  "C.Manhertz": {
+    "team": "NYG",
+    "targets": 2,
+    "target_share": 0.003952569169960474,
+    "yards_per_target": 3.5,
+    "epa_per_target": -0.1902606921212282
+  },
+  "C.Skattebo": {
+    "team": "NYG",
+    "targets": 32,
+    "rush_attempts": 102,
+    "target_share": 0.06324110671936758,
+    "yards_per_target": 6.46875,
+    "epa_per_target": 0.10463017950860376,
+    "epa_per_rush": -0.11859633972096333,
+    "rush_success_rate": 0.4117647058823529
+  },
+  "D.Bellinger": {
+    "team": "NYG",
+    "targets": 26,
+    "target_share": 0.05138339920948617,
+    "yards_per_target": 11.0,
+    "epa_per_target": 0.8691340654813058
+  },
+  "D.Singletary": {
+    "team": "NYG",
+    "targets": 19,
+    "rush_attempts": 119,
+    "target_share": 0.037549407114624504,
+    "yards_per_target": 7.947368421052632,
+    "epa_per_target": 0.11910348652401088,
+    "epa_per_rush": -0.02324324063741516,
+    "rush_success_rate": 0.3865546218487395
+  },
+  "D.Slayton": {
+    "team": "NYG",
+    "targets": 65,
+    "target_share": 0.12845849802371542,
+    "yards_per_target": 8.338461538461539,
+    "epa_per_target": 0.27694469499955854
+  },
+  "G.Olszewski": {
+    "team": "NYG",
+    "targets": 13,
+    "target_share": 0.025691699604743084,
+    "yards_per_target": 11.153846153846153,
+    "epa_per_target": 0.8161454215624688
+  },
+  "I.Hodgins": {
+    "team": "NYG",
+    "targets": 19,
+    "target_share": 0.037549407114624504,
+    "yards_per_target": 6.052631578947368,
+    "epa_per_target": 0.29023311994271866
+  },
+  "J.Hyatt": {
+    "team": "NYG",
+    "targets": 14,
+    "target_share": 0.02766798418972332,
+    "yards_per_target": 2.5,
+    "epa_per_target": -0.6488618496847006
+  },
+  "J.Winston": {
+    "team": "NYG",
+    "targets": 1,
+    "rush_attempts": 4,
+    "target_share": 0.001976284584980237,
+    "yards_per_target": 33.0,
+    "epa_per_target": 3.2233546525239944,
+    "epa_per_rush": 0.25257367095764494,
+    "rush_success_rate": 0.5
+  },
+  "M.Nabers": {
+    "team": "NYG",
+    "targets": 35,
+    "target_share": 0.0691699604743083,
+    "yards_per_target": 7.742857142857143,
+    "epa_per_target": 0.06596824360083703
+  },
+  "T.Johnson": {
+    "team": "TB",
+    "targets": 44,
+    "rush_attempts": 7,
+    "target_share": 0.08073394495412844,
+    "yards_per_target": 7.698529411764706,
+    "epa_per_target": 0.26289590329620083,
+    "epa_per_rush": -0.17903951574615867,
+    "rush_success_rate": 0.5714285714285714
+  },
+  "T.Tracy": {
+    "team": "NYG",
+    "targets": 48,
+    "rush_attempts": 176,
+    "target_share": 0.09486166007905138,
+    "yards_per_target": 6.0,
+    "epa_per_target": 0.0008451220215217233,
+    "epa_per_rush": -0.05560391431762619,
+    "rush_success_rate": 0.3693181818181818
+  },
+  "W.Robinson": {
+    "team": "NYG",
+    "targets": 141,
+    "rush_attempts": 3,
+    "target_share": 0.27865612648221344,
+    "yards_per_target": 7.191489361702128,
+    "epa_per_target": 0.13803222063922505,
+    "epa_per_rush": 0.6406826092473542,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "A.Beck": {
+    "team": "NYJ",
+    "targets": 9,
+    "rush_attempts": 1,
+    "target_share": 0.018867924528301886,
+    "yards_per_target": 5.0,
+    "epa_per_target": -0.024990942028428737,
+    "epa_per_rush": 1.3011814060155302,
+    "rush_success_rate": 1.0
+  },
+  "A.Lazard": {
+    "team": "NYJ",
+    "targets": 18,
+    "target_share": 0.03773584905660377,
+    "yards_per_target": 3.888888888888889,
+    "epa_per_target": -0.5365215658093803
+  },
+  "A.Smith": {
+    "team": "NYJ",
+    "targets": 16,
+    "rush_attempts": 4,
+    "target_share": 0.033542976939203356,
+    "yards_per_target": 3.25,
+    "epa_per_target": -0.3955887921147223,
+    "epa_per_rush": 0.024720075889490545,
+    "rush_success_rate": 0.5
+  },
+  "B.Allen": {
+    "team": "NYJ",
+    "targets": 3,
+    "rush_attempts": 19,
+    "target_share": 0.006289308176100629,
+    "yards_per_target": 5.666666666666667,
+    "epa_per_target": -0.07150880875997245,
+    "epa_per_rush": -0.4578733270823906,
+    "rush_success_rate": 0.3157894736842105
+  },
+  "B.Hall": {
+    "team": "NYJ",
+    "targets": 48,
+    "rush_attempts": 243,
+    "target_share": 0.10062893081761007,
+    "yards_per_target": 7.291666666666667,
+    "epa_per_target": 0.18061649923402934,
+    "epa_per_rush": -0.09163213790470538,
+    "rush_success_rate": 0.4074074074074074
+  },
+  "G.Wilson": {
+    "team": "NYJ",
+    "targets": 60,
+    "target_share": 0.12578616352201258,
+    "yards_per_target": 6.483333333333333,
+    "epa_per_target": -0.03441880080256032
+  },
+  "I.Davis": {
+    "team": "NYJ",
+    "targets": 29,
+    "rush_attempts": 43,
+    "target_share": 0.06079664570230608,
+    "yards_per_target": 6.482758620689655,
+    "epa_per_target": 0.15913649138139557,
+    "epa_per_rush": -0.07522229629480395,
+    "rush_success_rate": 0.3488372093023256
+  },
+  "I.Williams": {
+    "team": "NYJ",
+    "targets": 36,
+    "rush_attempts": 3,
+    "target_share": 0.07547169811320754,
+    "yards_per_target": 5.361111111111111,
+    "epa_per_target": 0.03281317628890404,
+    "epa_per_rush": 0.5280759851060187,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "J.Fields": {
+    "team": "NYJ",
+    "targets": 1,
+    "rush_attempts": 41,
+    "target_share": 0.0020964360587002098,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.8187713430379517,
+    "epa_per_rush": 0.05907985809921807,
+    "rush_success_rate": 0.6585365853658537
+  },
+  "J.Metchie": {
+    "team": "NYJ",
+    "targets": 4,
+    "rush_attempts": 3,
+    "target_share": 0.008385744234800839,
+    "yards_per_target": 5.708333333333333,
+    "epa_per_target": -0.0487198008401989,
+    "epa_per_rush": -1.0105223719341059,
+    "rush_success_rate": 0.0
+  },
+  "J.Reynolds": {
+    "team": "NYJ",
+    "targets": 22,
+    "target_share": 0.04612159329140461,
+    "yards_per_target": 4.681818181818182,
+    "epa_per_target": -0.11010037177567243
+  },
+  "J.Ruckert": {
+    "team": "NYJ",
+    "targets": 29,
+    "target_share": 0.06079664570230608,
+    "yards_per_target": 5.793103448275862,
+    "epa_per_target": 0.1567625867239007
+  },
+  "J.Woods": {
+    "team": "NYJ",
+    "targets": 3,
+    "target_share": 0.006289308176100629,
+    "yards_per_target": 1.3333333333333333,
+    "epa_per_target": -0.8486091227775129
+  },
+  "K.Herbert": {
+    "team": "NYJ",
+    "targets": 4,
+    "rush_attempts": 16,
+    "target_share": 0.008385744234800839,
+    "yards_per_target": 1.0,
+    "epa_per_target": -1.0142095359333325,
+    "epa_per_rush": -0.14158015582688677,
+    "rush_success_rate": 0.3125
+  },
+  "K.Nwangwu": {
+    "team": "NYJ",
+    "targets": 1,
+    "rush_attempts": 13,
+    "target_share": 0.0020964360587002098,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.847366844303906,
+    "epa_per_rush": -0.24479072731292734,
+    "rush_success_rate": 0.38461538461538464
+  },
+  "M.Moore": {
+    "team": "NYJ",
+    "targets": 1,
+    "target_share": 0.0020964360587002098,
+    "yards_per_target": 3.0,
+    "epa_per_target": 2.8565037888474762
+  },
+  "M.Taylor": {
+    "team": "NYJ",
+    "targets": 66,
+    "target_share": 0.13836477987421383,
+    "yards_per_target": 5.621212121212121,
+    "epa_per_target": 0.14690985956699545
+  },
+  "Q.Skinner": {
+    "team": "NYJ",
+    "targets": 2,
+    "target_share": 0.0041928721174004195,
+    "yards_per_target": 6.0,
+    "epa_per_target": 1.1561427450724877
+  },
+  "S.Smartt": {
+    "team": "NYJ",
+    "targets": 9,
+    "target_share": 0.018867924528301886,
+    "yards_per_target": 5.777777777777778,
+    "epa_per_target": 0.26529461920856395
+  },
+  "A.Brown": {
+    "team": "PHI",
+    "targets": 128,
+    "target_share": 0.256,
+    "yards_per_target": 8.03125,
+    "epa_per_target": 0.25119454418290277
+  },
+  "A.Dillon": {
+    "team": "PHI",
+    "targets": 3,
+    "rush_attempts": 12,
+    "target_share": 0.006,
+    "yards_per_target": 7.0,
+    "epa_per_target": -1.3947555954024817,
+    "epa_per_rush": -0.01437447263742797,
+    "rush_success_rate": 0.4166666666666667
+  },
+  "B.Covey": {
+    "team": "PHI",
+    "targets": 4,
+    "target_share": 0.008,
+    "yards_per_target": 5.0,
+    "epa_per_target": 0.14909207556605153
+  },
+  "D.Cooper": {
+    "team": "PHI",
+    "targets": 12,
+    "target_share": 0.024,
+    "yards_per_target": 8.416666666666666,
+    "epa_per_target": 0.4803611757500524
+  },
+  "D.Goedert": {
+    "team": "PHI",
+    "targets": 89,
+    "rush_attempts": 1,
+    "target_share": 0.178,
+    "yards_per_target": 7.01123595505618,
+    "epa_per_target": 0.42631298397829404,
+    "epa_per_rush": 1.0880740822758526,
+    "rush_success_rate": 1.0
+  },
+  "D.Smith": {
+    "team": "PHI",
+    "targets": 125,
+    "target_share": 0.25,
+    "yards_per_target": 8.624,
+    "epa_per_target": 0.4294356577427138
+  },
+  "G.Calcaterra": {
+    "team": "PHI",
+    "targets": 13,
+    "target_share": 0.026,
+    "yards_per_target": 5.846153846153846,
+    "epa_per_target": 0.07490963808511598
+  },
+  "J.Dotson": {
+    "team": "PHI",
+    "targets": 37,
+    "target_share": 0.074,
+    "yards_per_target": 7.081081081081081,
+    "epa_per_target": -0.42334252106334586
+  },
+  "K.Granson": {
+    "team": "PHI",
+    "targets": 9,
+    "target_share": 0.018,
+    "yards_per_target": 4.444444444444445,
+    "epa_per_target": -0.20717725092092426
+  },
+  "S.Barkley": {
+    "team": "PHI",
+    "targets": 57,
+    "rush_attempts": 307,
+    "target_share": 0.114,
+    "yards_per_target": 5.228070175438597,
+    "epa_per_target": -0.12621265774507795,
+    "epa_per_rush": -0.08938204307651633,
+    "rush_success_rate": 0.38436482084690554
+  },
+  "T.Bigsby": {
+    "team": "PHI",
+    "targets": 4,
+    "rush_attempts": 62,
+    "target_share": 0.008,
+    "yards_per_target": 8.0,
+    "epa_per_target": -0.1843128963955678,
+    "epa_per_rush": 0.11171322337913882,
+    "rush_success_rate": 0.47761194029850745
+  },
+  "W.Shipley": {
+    "team": "PHI",
+    "targets": 13,
+    "rush_attempts": 14,
+    "target_share": 0.026,
+    "yards_per_target": 4.769230769230769,
+    "epa_per_target": -0.45104631599195955,
+    "epa_per_rush": -0.25710670265614705,
+    "rush_success_rate": 0.2857142857142857
+  },
+  "X.Gipson": {
+    "team": "PHI",
+    "targets": 2,
+    "target_share": 0.004,
+    "yards_per_target": 3.0,
+    "epa_per_target": -0.3068566594738513
+  },
+  "A.Rodgers": {
+    "team": "PIT",
+    "targets": 1,
+    "rush_attempts": 1,
+    "target_share": 0.0018018018018018018,
+    "yards_per_target": -9.0,
+    "epa_per_target": -1.5339853016193956,
+    "epa_per_rush": -2.177859874209389,
+    "rush_success_rate": 0.0
+  },
+  "B.Skowronek": {
+    "team": "PIT",
+    "targets": 6,
+    "target_share": 0.010810810810810811,
+    "yards_per_target": 11.5,
+    "epa_per_target": 0.9014910167898051
+  },
+  "C.Austin": {
+    "team": "PIT",
+    "targets": 61,
+    "target_share": 0.10990990990990991,
+    "yards_per_target": 6.229508196721311,
+    "epa_per_target": -0.09397025876158138
+  },
+  "Co.Heyward": {
+    "team": "PIT",
+    "targets": 4,
+    "rush_attempts": 15,
+    "target_share": 0.007207207207207207,
+    "yards_per_target": 5.25,
+    "epa_per_target": 0.3527386917558033,
+    "epa_per_rush": 0.5704134131005655,
+    "rush_success_rate": 0.7333333333333333
+  },
+  "D.Metcalf": {
+    "team": "PIT",
+    "targets": 104,
+    "rush_attempts": 2,
+    "target_share": 0.1873873873873874,
+    "yards_per_target": 8.576923076923077,
+    "epa_per_target": 0.3196104894315056,
+    "epa_per_rush": 0.8434047382907011,
+    "rush_success_rate": 1.0
+  },
+  "D.Washington": {
+    "team": "PIT",
+    "targets": 44,
+    "target_share": 0.07927927927927927,
+    "yards_per_target": 8.318181818181818,
+    "epa_per_target": 0.332784269992278
+  },
+  "J.Smith": {
+    "team": "PIT",
+    "targets": 58,
+    "rush_attempts": 9,
+    "target_share": 0.1045045045045045,
+    "yards_per_target": 3.810344827586207,
+    "epa_per_target": -0.017015999954083975,
+    "epa_per_rush": 0.4274470430553063,
+    "rush_success_rate": 0.5555555555555556
+  },
+  "J.Warren": {
+    "team": "PIT",
+    "targets": 46,
+    "rush_attempts": 223,
+    "target_share": 0.08288288288288288,
+    "yards_per_target": 7.326086956521739,
+    "epa_per_target": 0.22309650129538036,
+    "epa_per_rush": -0.018713687206963037,
+    "rush_success_rate": 0.4260089686098655
+  },
+  "K.Gainwell": {
+    "team": "PIT",
+    "targets": 91,
+    "rush_attempts": 120,
+    "target_share": 0.16396396396396395,
+    "yards_per_target": 5.626373626373627,
+    "epa_per_target": 0.0008880482398652183,
+    "epa_per_rush": -0.01749621840620724,
+    "rush_success_rate": 0.4583333333333333
+  },
+  "K.Johnson": {
+    "team": "TB",
+    "targets": 7,
+    "rush_attempts": 2,
+    "target_share": 0.012844036697247707,
+    "yards_per_target": 8.11111111111111,
+    "epa_per_target": 0.0851894033574797,
+    "epa_per_rush": -0.2552478469093699,
+    "rush_success_rate": 0.26666666666666666
+  },
+  "M.Valdes-Scantling": {
+    "team": "SF",
+    "targets": 8,
+    "target_share": 0.01309328968903437,
+    "yards_per_target": 4.294117647058823,
+    "epa_per_target": -0.14089618147356553
+  },
+  "P.Freiermuth": {
+    "team": "PIT",
+    "targets": 57,
+    "target_share": 0.10270270270270271,
+    "yards_per_target": 8.842105263157896,
+    "epa_per_target": 0.32469127735636555
+  },
+  "R.Wilson": {
+    "team": "NYG",
+    "targets": 21,
+    "rush_attempts": 6,
+    "target_share": 0.041501976284584984,
+    "yards_per_target": 7.904761904761905,
+    "epa_per_target": 0.19376786450845732,
+    "epa_per_rush": 0.054046901861675524,
+    "rush_success_rate": 0.5
+  },
+  "S.Anderson": {
+    "team": "PIT",
+    "targets": 1,
+    "target_share": 0.0018018018018018018,
+    "yards_per_target": 4.0,
+    "epa_per_target": -0.007790219970047474
+  },
+  "S.Miller": {
+    "team": "PIT",
+    "targets": 14,
+    "target_share": 0.025225225225225224,
+    "yards_per_target": 4.428571428571429,
+    "epa_per_target": -0.07910676736059721
+  },
+  "A.Barner": {
+    "team": "SEA",
+    "targets": 75,
+    "rush_attempts": 11,
+    "target_share": 0.13812154696132597,
+    "yards_per_target": 7.8133333333333335,
+    "epa_per_target": 0.4636661205675667,
+    "epa_per_rush": 0.6994023486358029,
+    "rush_success_rate": 0.9090909090909091
+  },
+  "B.Russell": {
+    "team": "SEA",
+    "targets": 1,
+    "target_share": 0.001841620626151013,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.4471562528051436
+  },
+  "C.Kupp": {
+    "team": "SEA",
+    "targets": 94,
+    "target_share": 0.1731123388581952,
+    "yards_per_target": 8.0,
+    "epa_per_target": 0.19058479607967327
+  },
+  "C.White": {
+    "team": "SEA",
+    "targets": 4,
+    "target_share": 0.007366482504604052,
+    "yards_per_target": 22.5,
+    "epa_per_target": 1.2105799895944074
+  },
+  "D.Young": {
+    "team": "SEA",
+    "targets": 3,
+    "target_share": 0.0055248618784530384,
+    "yards_per_target": 16.0,
+    "epa_per_target": 0.6567034848267213
+  },
+  "E.Arroyo": {
+    "team": "SEA",
+    "targets": 26,
+    "target_share": 0.04788213627992634,
+    "yards_per_target": 6.884615384615385,
+    "epa_per_target": -0.6245733188091341
+  },
+  "E.Saubert": {
+    "team": "SEA",
+    "targets": 8,
+    "target_share": 0.014732965009208104,
+    "yards_per_target": 4.125,
+    "epa_per_target": 0.31879361748239726
+  },
+  "G.Holani": {
+    "team": "SEA",
+    "targets": 7,
+    "rush_attempts": 27,
+    "target_share": 0.01289134438305709,
+    "yards_per_target": 7.0,
+    "epa_per_target": 0.11878708175832539,
+    "epa_per_rush": -0.40252651937019773,
+    "rush_success_rate": 0.2222222222222222
+  },
+  "J.Bobo": {
+    "team": "SEA",
+    "targets": 5,
+    "target_share": 0.009208103130755065,
+    "yards_per_target": 10.6,
+    "epa_per_target": 0.8720826692762784
+  },
+  "J.Smith-Njigba": {
+    "team": "SEA",
+    "targets": 189,
+    "rush_attempts": 7,
+    "target_share": 0.34806629834254144,
+    "yards_per_target": 10.53968253968254,
+    "epa_per_target": 0.5116345185186576,
+    "epa_per_rush": 0.006665409210004977,
+    "rush_success_rate": 0.42857142857142855
+  },
+  "K.Walker": {
+    "team": "SEA",
+    "targets": 47,
+    "rush_attempts": 286,
+    "target_share": 0.0865561694290976,
+    "yards_per_target": 8.212765957446809,
+    "epa_per_target": 0.3295117832548654,
+    "epa_per_rush": -0.035037274552384555,
+    "rush_success_rate": 0.38461538461538464
+  },
+  "N.Kallerup": {
+    "team": "SEA",
+    "targets": 1,
+    "target_share": 0.001841620626151013,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.5554333369946107
+  },
+  "R.Ouzts": {
+    "team": "SEA",
+    "targets": 1,
+    "target_share": 0.001841620626151013,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.32960740866838023
+  },
+  "T.Horton": {
+    "team": "SEA",
+    "targets": 22,
+    "target_share": 0.040515653775322284,
+    "yards_per_target": 7.318181818181818,
+    "epa_per_target": 0.4657170734721748
+  },
+  "Z.Charbonnet": {
+    "team": "SEA",
+    "targets": 24,
+    "rush_attempts": 189,
+    "target_share": 0.04419889502762431,
+    "yards_per_target": 6.0,
+    "epa_per_target": 0.028064584931756675,
+    "epa_per_rush": -0.01172692144346433,
+    "rush_success_rate": 0.4126984126984127
+  },
+  "B.Willis": {
+    "team": "SF",
+    "targets": 1,
+    "target_share": 0.0016366612111292963,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.7294479382690042
+  },
+  "C.Colby": {
+    "team": "SF",
+    "targets": 1,
+    "target_share": 0.0016366612111292963,
+    "yards_per_target": -1.0,
+    "epa_per_target": -1.2148527413199173
+  },
+  "C.McCaffrey": {
+    "team": "SF",
+    "targets": 143,
+    "rush_attempts": 337,
+    "target_share": 0.23404255319148937,
+    "yards_per_target": 7.055944055944056,
+    "epa_per_target": 0.33237191787143133,
+    "epa_per_rush": -0.07704332546620624,
+    "rush_success_rate": 0.3916913946587537
+  },
+  "D.Robinson": {
+    "team": "SF",
+    "targets": 44,
+    "rush_attempts": 1,
+    "target_share": 0.07201309328968904,
+    "yards_per_target": 8.863636363636363,
+    "epa_per_target": 0.35090408847272675,
+    "epa_per_rush": 0.3164020497351885,
+    "rush_success_rate": 1.0
+  },
+  "G.Kittle": {
+    "team": "SF",
+    "targets": 71,
+    "rush_attempts": 1,
+    "target_share": 0.11620294599018004,
+    "yards_per_target": 8.929577464788732,
+    "epa_per_target": 0.6457530361163345,
+    "epa_per_rush": -0.9897125085117295,
+    "rush_success_rate": 0.0
+  },
+  "J.James": {
+    "team": "SF",
+    "targets": 1,
+    "rush_attempts": 6,
+    "target_share": 0.0016366612111292963,
+    "yards_per_target": 7.0,
+    "epa_per_target": 0.7573326344136149,
+    "epa_per_rush": -0.1432228002619619,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "J.Jennings": {
+    "team": "SF",
+    "targets": 101,
+    "target_share": 0.16530278232405893,
+    "yards_per_target": 7.0594059405940595,
+    "epa_per_target": -0.018530861027657868
+  },
+  "J.Tonges": {
+    "team": "SF",
+    "targets": 55,
+    "target_share": 0.09001636661211129,
+    "yards_per_target": 6.654545454545454,
+    "epa_per_target": 0.215840152846068
+  },
+  "J.Watkins": {
+    "team": "SF",
+    "targets": 3,
+    "target_share": 0.004909983633387889,
+    "yards_per_target": 8.666666666666666,
+    "epa_per_target": 0.3307465711259283
+  },
+  "K.Bourne": {
+    "team": "SF",
+    "targets": 55,
+    "target_share": 0.09001636661211129,
+    "yards_per_target": 10.018181818181818,
+    "epa_per_target": 0.30243038750626416
+  },
+  "K.Juszczyk": {
+    "team": "SF",
+    "targets": 33,
+    "rush_attempts": 3,
+    "target_share": 0.054009819967266774,
+    "yards_per_target": 8.272727272727273,
+    "epa_per_target": 0.3483999454448084,
+    "epa_per_rush": -2.4339873631640025,
+    "rush_success_rate": 0.0
+  },
+  "L.Farrell": {
+    "team": "SF",
+    "targets": 17,
+    "target_share": 0.027823240589198037,
+    "yards_per_target": 5.0588235294117645,
+    "epa_per_target": -0.1802381394937744
+  },
+  "M.Turner": {
+    "team": "SF",
+    "targets": 2,
+    "target_share": 0.0032733224222585926,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.3744623639213387
+  },
+  "R.Pearsall": {
+    "team": "SF",
+    "targets": 55,
+    "rush_attempts": 2,
+    "target_share": 0.09001636661211129,
+    "yards_per_target": 9.963636363636363,
+    "epa_per_target": 0.44117453734966433,
+    "epa_per_rush": -0.8360722392390016,
+    "rush_success_rate": 0.0
+  },
+  "S.Moore": {
+    "team": "SF",
+    "targets": 8,
+    "rush_attempts": 3,
+    "target_share": 0.01309328968903437,
+    "yards_per_target": 10.875,
+    "epa_per_target": -0.053648296154278796,
+    "epa_per_rush": 0.1784890325507149,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "B.Irving": {
+    "team": "TB",
+    "targets": 35,
+    "rush_attempts": 173,
+    "target_share": 0.06422018348623854,
+    "yards_per_target": 7.914285714285715,
+    "epa_per_target": 0.2517821769778883,
+    "epa_per_rush": -0.20564978152978483,
+    "rush_success_rate": 0.3468208092485549
+  },
+  "C.Godwin": {
+    "team": "TB",
+    "targets": 52,
+    "target_share": 0.09541284403669725,
+    "yards_per_target": 6.961538461538462,
+    "epa_per_target": 0.2826941765446876
+  },
+  "C.Otton": {
+    "team": "TB",
+    "targets": 82,
+    "target_share": 0.15045871559633028,
+    "yards_per_target": 6.975609756097561,
+    "epa_per_target": 0.03756494610003398
+  },
+  "D.Culp": {
+    "team": "TB",
+    "targets": 1,
+    "target_share": 0.001834862385321101,
+    "yards_per_target": 6.0,
+    "epa_per_target": 1.7139679592801258
+  },
+  "E.Egbuka": {
+    "team": "TB",
+    "targets": 128,
+    "rush_attempts": 3,
+    "target_share": 0.23486238532110093,
+    "yards_per_target": 7.34375,
+    "epa_per_target": 0.05580580450929602,
+    "epa_per_rush": -0.5605478515159339,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "J.McMillan": {
+    "team": "TB",
+    "targets": 15,
+    "rush_attempts": 1,
+    "target_share": 0.027522935779816515,
+    "yards_per_target": 11.866666666666667,
+    "epa_per_target": 0.8326520851080417,
+    "epa_per_rush": -0.46228136523859575,
+    "rush_success_rate": 0.0
+  },
+  "P.Durham": {
+    "team": "TB",
+    "targets": 4,
+    "target_share": 0.007339449541284404,
+    "yards_per_target": 2.75,
+    "epa_per_target": -0.29893310865736566
+  },
+  "R.Miller": {
+    "team": "TB",
+    "targets": 4,
+    "target_share": 0.007339449541284404,
+    "yards_per_target": 8.5,
+    "epa_per_target": -0.17623265605613503
+  },
+  "R.White": {
+    "team": "TB",
+    "targets": 45,
+    "rush_attempts": 133,
+    "target_share": 0.08256880733944955,
+    "yards_per_target": 4.844444444444444,
+    "epa_per_target": -0.04025515022088957,
+    "epa_per_rush": 0.07841160458876119,
+    "rush_success_rate": 0.48120300751879697
+  },
+  "S.Shepard": {
+    "team": "TB",
+    "targets": 54,
+    "rush_attempts": 4,
+    "target_share": 0.09908256880733946,
+    "yards_per_target": 6.87037037037037,
+    "epa_per_target": -0.052345657419413834,
+    "epa_per_rush": 0.045729187098913826,
+    "rush_success_rate": 0.75
+  },
+  "S.Tucker": {
+    "team": "TB",
+    "targets": 11,
+    "rush_attempts": 86,
+    "target_share": 0.02018348623853211,
+    "yards_per_target": 3.090909090909091,
+    "epa_per_target": -0.28736658432436263,
+    "epa_per_rush": -0.042515420188438,
+    "rush_success_rate": 0.37209302325581395
+  },
+  "T.Wirfs": {
+    "team": "TB",
+    "targets": 1,
+    "target_share": 0.001834862385321101,
+    "yards_per_target": 2.0,
+    "epa_per_target": 2.9882184629677795
+  },
+  "B.Oliver": {
+    "team": "TEN",
+    "targets": 1,
+    "target_share": 0.0018867924528301887,
+    "yards_per_target": 8.0,
+    "epa_per_target": 0.5178800749126822
+  },
+  "C.Dike": {
+    "team": "TEN",
+    "targets": 74,
+    "rush_attempts": 11,
+    "target_share": 0.13962264150943396,
+    "yards_per_target": 5.716216216216216,
+    "epa_per_target": 0.021165313771296747,
+    "epa_per_rush": -0.38496886440870265,
+    "rush_success_rate": 0.18181818181818182
+  },
+  "C.Okonkwo": {
+    "team": "TEN",
+    "targets": 79,
+    "target_share": 0.1490566037735849,
+    "yards_per_target": 7.0886075949367084,
+    "epa_per_target": 0.16039372231281626
+  },
+  "C.Ridley": {
+    "team": "TEN",
+    "targets": 36,
+    "target_share": 0.06792452830188679,
+    "yards_per_target": 8.416666666666666,
+    "epa_per_target": 0.3394784731073687
+  },
+  "D.Martin-Robinson": {
+    "team": "TEN",
+    "targets": 6,
+    "target_share": 0.011320754716981131,
+    "yards_per_target": 5.0,
+    "epa_per_target": -0.16281785433723903
+  },
+  "E.Ayomanor": {
+    "team": "TEN",
+    "targets": 89,
+    "target_share": 0.16792452830188678,
+    "yards_per_target": 5.786516853932584,
+    "epa_per_target": -0.10781689321860706
+  },
+  "G.Helm": {
+    "team": "TEN",
+    "targets": 55,
+    "target_share": 0.10377358490566038,
+    "yards_per_target": 6.490909090909091,
+    "epa_per_target": 0.069717796831776
+  },
+  "J.Chestnut": {
+    "team": "TEN",
+    "targets": 2,
+    "rush_attempts": 11,
+    "target_share": 0.0037735849056603774,
+    "yards_per_target": 0.0,
+    "epa_per_target": -0.7259254938689992,
+    "epa_per_rush": -0.2944541333152055,
+    "rush_success_rate": 0.36363636363636365
+  },
+  "J.Proche": {
+    "team": "TEN",
+    "targets": 12,
+    "target_share": 0.022641509433962263,
+    "yards_per_target": 5.416666666666667,
+    "epa_per_target": 0.1397433629075143
+  },
+  "J.Simmons": {
+    "team": "TEN",
+    "targets": 1,
+    "target_share": 0.0018867924528301887,
+    "yards_per_target": 1.0,
+    "epa_per_target": 0.5639460802776739
+  },
+  "M.Kinsey": {
+    "team": "TEN",
+    "targets": 4,
+    "target_share": 0.007547169811320755,
+    "yards_per_target": 12.0,
+    "epa_per_target": 0.8496161527145887
+  },
+  "T.Pollard": {
+    "team": "TEN",
+    "targets": 41,
+    "rush_attempts": 242,
+    "target_share": 0.07735849056603773,
+    "yards_per_target": 5.024390243902439,
+    "epa_per_target": -0.2884676019321151,
+    "epa_per_rush": -0.08964581227464155,
+    "rush_success_rate": 0.3925619834710744
+  },
+  "T.Spears": {
+    "team": "TEN",
+    "targets": 50,
+    "rush_attempts": 72,
+    "target_share": 0.09433962264150944,
+    "yards_per_target": 5.28,
+    "epa_per_target": -0.032889244274388406,
+    "epa_per_rush": -0.05418260438104336,
+    "rush_success_rate": 0.3472222222222222
+  },
+  "V.Jefferson": {
+    "team": "TEN",
+    "targets": 52,
+    "target_share": 0.09811320754716982,
+    "yards_per_target": 6.730769230769231,
+    "epa_per_target": 0.17189320271572722
+  },
+  "X.Restrepo": {
+    "team": "TEN",
+    "targets": 7,
+    "target_share": 0.013207547169811321,
+    "yards_per_target": 5.857142857142857,
+    "epa_per_target": 0.43503195333011846
+  },
+  "A.Ekeler": {
+    "team": "WAS",
+    "targets": 7,
+    "rush_attempts": 14,
+    "target_share": 0.016055045871559634,
+    "yards_per_target": 5.428571428571429,
+    "epa_per_target": 0.032813328107362275,
+    "epa_per_rush": -0.08323907661750647,
+    "rush_success_rate": 0.35714285714285715
+  },
+  "B.Sinnott": {
+    "team": "WAS",
+    "targets": 13,
+    "target_share": 0.02981651376146789,
+    "yards_per_target": 8.76923076923077,
+    "epa_per_target": 0.24855047129900554
+  },
+  "C.Moore": {
+    "team": "WAS",
+    "targets": 23,
+    "rush_attempts": 1,
+    "target_share": 0.052752293577981654,
+    "yards_per_target": 9.0,
+    "epa_per_target": 0.5340360865333773,
+    "epa_per_rush": 0.725056131137535,
+    "rush_success_rate": 1.0
+  },
+  "C.Rodriguez": {
+    "team": "WAS",
+    "targets": 4,
+    "rush_attempts": 112,
+    "target_share": 0.009174311926605505,
+    "yards_per_target": 7.5,
+    "epa_per_target": -0.8250125992199173,
+    "epa_per_rush": 0.05533496221583586,
+    "rush_success_rate": 0.4642857142857143
+  },
+  "C.Yankoff": {
+    "team": "WAS",
+    "targets": 3,
+    "target_share": 0.006880733944954129,
+    "yards_per_target": 6.0,
+    "epa_per_target": 0.9471900692830483
+  },
+  "D.Samuel": {
+    "team": "WAS",
+    "targets": 100,
+    "rush_attempts": 17,
+    "target_share": 0.22935779816513763,
+    "yards_per_target": 7.27,
+    "epa_per_target": 0.17621090014982266,
+    "epa_per_rush": 0.008388268347035217,
+    "rush_success_rate": 0.29411764705882354
+  },
+  "J.Bates": {
+    "team": "WAS",
+    "targets": 16,
+    "target_share": 0.03669724770642202,
+    "yards_per_target": 6.4375,
+    "epa_per_target": 0.4877952467541036
+  },
+  "J.Croskey-Merritt": {
+    "team": "WAS",
+    "targets": 13,
+    "rush_attempts": 176,
+    "target_share": 0.02981651376146789,
+    "yards_per_target": 5.230769230769231,
+    "epa_per_target": 0.07955487036647704,
+    "epa_per_rush": -0.03710670307794829,
+    "rush_success_rate": 0.42613636363636365
+  },
+  "J.Lane": {
+    "team": "WAS",
+    "targets": 32,
+    "rush_attempts": 1,
+    "target_share": 0.07339449541284404,
+    "yards_per_target": 7.03125,
+    "epa_per_target": -0.17661524486459984,
+    "epa_per_rush": 0.26102899201214314,
+    "rush_success_rate": 1.0
+  },
+  "J.McNichols": {
+    "team": "WAS",
+    "targets": 32,
+    "rush_attempts": 45,
+    "target_share": 0.07339449541284404,
+    "yards_per_target": 6.125,
+    "epa_per_target": -0.03579848153017118,
+    "epa_per_rush": 0.03205379856097408,
+    "rush_success_rate": 0.4222222222222222
+  },
+  "Ja.Jones": {
+    "team": "WAS",
+    "targets": 1,
+    "target_share": 0.0022935779816513763,
+    "yards_per_target": 25.0,
+    "epa_per_target": 1.5626438096514903
+  },
+  "L.McCaffrey": {
+    "team": "WAS",
+    "targets": 16,
+    "target_share": 0.03669724770642202,
+    "yards_per_target": 12.8125,
+    "epa_per_target": 0.5907068981842368
+  },
+  "N.Brown": {
+    "team": "WAS",
+    "targets": 10,
+    "target_share": 0.022935779816513763,
+    "yards_per_target": 8.3,
+    "epa_per_target": 0.2284025734901661
+  },
+  "R.Chosen": {
+    "team": "WAS",
+    "targets": 9,
+    "target_share": 0.020642201834862386,
+    "yards_per_target": 5.888888888888889,
+    "epa_per_target": -0.03012398634907893
+  },
+  "T.Burks": {
+    "team": "WAS",
+    "targets": 22,
+    "target_share": 0.05045871559633028,
+    "yards_per_target": 5.909090909090909,
+    "epa_per_target": -0.4006482011712123
+  },
+  "T.Martin": {
+    "team": "WAS",
+    "targets": 2,
+    "target_share": 0.0045871559633027525,
+    "yards_per_target": 11.5,
+    "epa_per_target": 1.2662474588141777
+  },
+  "T.McLaurin": {
+    "team": "WAS",
+    "targets": 60,
+    "target_share": 0.13761467889908258,
+    "yards_per_target": 9.7,
+    "epa_per_target": 0.5291637756750293
+  },
+  "Z.Ertz": {
+    "team": "WAS",
+    "targets": 73,
+    "target_share": 0.16743119266055045,
+    "yards_per_target": 6.931506849315069,
+    "epa_per_target": 0.16041501287132456
+  },
+  "D.Johnson": {
+    "team": "NE",
+    "rush_attempts": 13,
+    "epa_per_rush": -0.39271827824580086,
+    "rush_success_rate": 0.07142857142857142
+  },
+  "J.Brissett": {
+    "team": "ARI",
+    "rush_attempts": 14,
+    "epa_per_rush": 0.12399812286303488,
+    "rush_success_rate": 0.6428571428571429
+  },
+  "K.Murray": {
+    "team": "ARI",
+    "rush_attempts": 12,
+    "epa_per_rush": -0.4522273632901488,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "F.Franks": {
+    "team": "ATL",
+    "rush_attempts": 2,
+    "epa_per_rush": 0.6362522058188915,
+    "rush_success_rate": 1.0
+  },
+  "K.Cousins": {
+    "team": "ATL",
+    "rush_attempts": 6,
+    "epa_per_rush": -0.1648202634290404,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "M.Penix": {
+    "team": "ATL",
+    "rush_attempts": 1,
+    "epa_per_rush": -1.2723311283625662,
+    "rush_success_rate": 0.0
+  },
+  "N.Carter": {
+    "team": "ATL",
+    "rush_attempts": 9,
+    "epa_per_rush": -0.1814396513056838,
+    "rush_success_rate": 0.5555555555555556
+  },
+  "C.Rush": {
+    "team": "BAL",
+    "rush_attempts": 1,
+    "epa_per_rush": -5.581122012459673,
+    "rush_success_rate": 0.0
+  },
+  "L.Jackson": {
+    "team": "BAL",
+    "rush_attempts": 28,
+    "epa_per_rush": 0.29321888725225537,
+    "rush_success_rate": 0.5357142857142857
+  },
+  "T.Huntley": {
+    "team": "BAL",
+    "rush_attempts": 12,
+    "epa_per_rush": 0.3804382989910664,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "J.Allen": {
+    "team": "BUF",
+    "rush_attempts": 60,
+    "epa_per_rush": 0.5572312291175254,
+    "rush_success_rate": 0.7166666666666667
+  },
+  "A.Dalton": {
+    "team": "CAR",
+    "rush_attempts": 1,
+    "epa_per_rush": -1.3635005606338382,
+    "rush_success_rate": 0.0
+  },
+  "B.Young": {
+    "team": "CAR",
+    "rush_attempts": 6,
+    "epa_per_rush": -1.0819131770404056,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "R.Johnson": {
+    "team": "CHI",
+    "rush_attempts": 2,
+    "epa_per_rush": 0.6792426051106304,
+    "rush_success_rate": 1.0
+  },
+  "T.Bagent": {
+    "team": "CHI",
+    "rush_attempts": 1,
+    "epa_per_rush": -0.6849693115800619,
+    "rush_success_rate": 0.0
+  },
+  "T.Homer": {
+    "team": "CHI",
+    "rush_attempts": 1,
+    "epa_per_rush": -1.3661332725416906,
+    "rush_success_rate": 0.0
+  },
+  "J.Browning": {
+    "team": "CIN",
+    "rush_attempts": 4,
+    "epa_per_rush": 0.8343048912356608,
+    "rush_success_rate": 1.0
+  },
+  "J.Burrow": {
+    "team": "CIN",
+    "rush_attempts": 5,
+    "epa_per_rush": 1.3715389581455384,
+    "rush_success_rate": 1.0
+  },
+  "J.Flacco": {
+    "team": "CLE",
+    "rush_attempts": 3,
+    "epa_per_rush": 0.32356950973553467,
+    "rush_success_rate": 0.75
+  },
+  "K.Milton": {
+    "team": "CIN",
+    "rush_attempts": 2,
+    "epa_per_rush": 0.42922053375514224,
+    "rush_success_rate": 0.5
+  },
+  "D.Gabriel": {
+    "team": "CLE",
+    "rush_attempts": 2,
+    "epa_per_rush": -0.6624823504535016,
+    "rush_success_rate": 0.0
+  },
+  "S.Sanders": {
+    "team": "CLE",
+    "rush_attempts": 2,
+    "epa_per_rush": -0.012492348127067066,
+    "rush_success_rate": 0.5
+  },
+  "B.Aubrey": {
+    "team": "DAL",
+    "rush_attempts": 1,
+    "epa_per_rush": 2.724662708467804,
+    "rush_success_rate": 1.0
+  },
+  "D.Prescott": {
+    "team": "DAL",
+    "rush_attempts": 11,
+    "epa_per_rush": -0.6042168960689609,
+    "rush_success_rate": 0.36363636363636365
+  },
+  "J.Milton": {
+    "team": "DAL",
+    "rush_attempts": 2,
+    "epa_per_rush": 1.5656614058243576,
+    "rush_success_rate": 0.5
+  },
+  "J.Stidham": {
+    "team": "DEN",
+    "rush_attempts": 1,
+    "epa_per_rush": 0.5578120143618435,
+    "rush_success_rate": 1.0
+  },
+  "C.Reynolds": {
+    "team": "DET",
+    "rush_attempts": 3,
+    "epa_per_rush": -0.7861297893493125,
+    "rush_success_rate": 0.0
+  },
+  "G.Stuard": {
+    "team": "DET",
+    "rush_attempts": 1,
+    "epa_per_rush": -2.786329652182758,
+    "rush_success_rate": 0.0
+  },
+  "J.Goff": {
+    "team": "DET",
+    "rush_attempts": 6,
+    "epa_per_rush": -1.7972478564382375,
+    "rush_success_rate": 0.5
+  },
+  "J.Saylors": {
+    "team": "DET",
+    "rush_attempts": 2,
+    "epa_per_rush": -0.5294849450001493,
+    "rush_success_rate": 0.0
+  },
+  "M.Cunningham": {
+    "team": "DET",
+    "rush_attempts": 1,
+    "epa_per_rush": -0.4975396324880421,
+    "rush_success_rate": 0.0
+  },
+  "S.Vaki": {
+    "team": "DET",
+    "rush_attempts": 1,
+    "epa_per_rush": -0.8815627752337605,
+    "rush_success_rate": 0.0
+  },
+  "C.Tune": {
+    "team": "GB",
+    "rush_attempts": 2,
+    "epa_per_rush": 0.5570982191711664,
+    "rush_success_rate": 0.5
+  },
+  "J.Love": {
+    "team": "GB",
+    "rush_attempts": 10,
+    "epa_per_rush": 0.37283538159099405,
+    "rush_success_rate": 0.5
+  },
+  "M.Willis": {
+    "team": "GB",
+    "rush_attempts": 9,
+    "epa_per_rush": -0.17351982583123673,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "B.Brooks": {
+    "team": "HOU",
+    "rush_attempts": 17,
+    "epa_per_rush": 0.12772414467532456,
+    "rush_success_rate": 0.47058823529411764
+  },
+  "C.Stroud": {
+    "team": "HOU",
+    "rush_attempts": 13,
+    "epa_per_rush": 0.5450132456831992,
+    "rush_success_rate": 0.7692307692307693
+  },
+  "D.Mills": {
+    "team": "HOU",
+    "rush_attempts": 4,
+    "epa_per_rush": -0.3666674354935531,
+    "rush_success_rate": 0.25
+  },
+  "D.Jones": {
+    "team": "IND",
+    "rush_attempts": 16,
+    "epa_per_rush": 0.6530634776918305,
+    "rush_success_rate": 0.75
+  },
+  "P.Rivers": {
+    "team": "IND",
+    "rush_attempts": 1,
+    "epa_per_rush": -1.1464567719958723,
+    "rush_success_rate": 0.0
+  },
+  "R.Leonard": {
+    "team": "IND",
+    "rush_attempts": 2,
+    "epa_per_rush": -0.03811413962102961,
+    "rush_success_rate": 0.5
+  },
+  "R.Thomas": {
+    "team": "IND",
+    "rush_attempts": 1,
+    "epa_per_rush": 2.1160498950630426,
+    "rush_success_rate": 1.0
+  },
+  "U.Bentley": {
+    "team": "IND",
+    "rush_attempts": 1,
+    "epa_per_rush": -0.7951695243951273,
+    "rush_success_rate": 0.0
+  },
+  "T.Lawrence": {
+    "team": "JAX",
+    "rush_attempts": 36,
+    "epa_per_rush": 0.2063745889030979,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "C.Oladokun": {
+    "team": "KC",
+    "rush_attempts": 1,
+    "epa_per_rush": -4.800101317814551,
+    "rush_success_rate": 0.0
+  },
+  "M.Stafford": {
+    "team": "LA",
+    "rush_attempts": 6,
+    "epa_per_rush": -2.2658530978660565,
+    "rush_success_rate": 0.16666666666666666
+  },
+  "J.Herbert": {
+    "team": "LAC",
+    "rush_attempts": 28,
+    "epa_per_rush": -0.029709124953497423,
+    "rush_success_rate": 0.6785714285714286
+  },
+  "N.Miller-Hines": {
+    "team": "LAC",
+    "rush_attempts": 2,
+    "epa_per_rush": -0.7569412510783877,
+    "rush_success_rate": 0.0
+  },
+  "T.Lance": {
+    "team": "LAC",
+    "rush_attempts": 8,
+    "epa_per_rush": -0.2922276740282541,
+    "rush_success_rate": 0.25
+  },
+  "G.Smith": {
+    "team": "LV",
+    "rush_attempts": 17,
+    "epa_per_rush": -0.334992588723681,
+    "rush_success_rate": 0.4117647058823529
+  },
+  "I.Pola-Mao": {
+    "team": "LV",
+    "rush_attempts": 1,
+    "epa_per_rush": -2.949867397896014,
+    "rush_success_rate": 0.0
+  },
+  "K.Pickett": {
+    "team": "LV",
+    "rush_attempts": 2,
+    "epa_per_rush": -3.0112791696446948,
+    "rush_success_rate": 0.0
+  },
+  "T.Tagovailoa": {
+    "team": "MIA",
+    "rush_attempts": 5,
+    "epa_per_rush": -1.26920915057417,
+    "rush_success_rate": 0.0
+  },
+  "C.Wentz": {
+    "team": "MIN",
+    "rush_attempts": 2,
+    "epa_per_rush": -2.6425225681748192,
+    "rush_success_rate": 0.0
+  },
+  "J.McCarthy": {
+    "team": "MIN",
+    "rush_attempts": 11,
+    "epa_per_rush": 0.15132939950986343,
+    "rush_success_rate": 0.5454545454545454
+  },
+  "T.Shough": {
+    "team": "NO",
+    "rush_attempts": 19,
+    "epa_per_rush": -0.009003013141882168,
+    "rush_success_rate": 0.47368421052631576
+  },
+  "J.Dart": {
+    "team": "NYG",
+    "rush_attempts": 41,
+    "epa_per_rush": 0.31745899377089765,
+    "rush_success_rate": 0.6097560975609756
+  },
+  "J.Gillan": {
+    "team": "NYG",
+    "rush_attempts": 1,
+    "epa_per_rush": -3.7585701181087643,
+    "rush_success_rate": 0.0
+  },
+  "B.Cook": {
+    "team": "NYJ",
+    "rush_attempts": 6,
+    "epa_per_rush": -0.47546076122671366,
+    "rush_success_rate": 0.5
+  },
+  "T.Taylor": {
+    "team": "NYJ",
+    "rush_attempts": 3,
+    "epa_per_rush": 0.11980258164112456,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "B.Mann": {
+    "team": "PHI",
+    "rush_attempts": 1,
+    "epa_per_rush": -1.951239154965151,
+    "rush_success_rate": 0.0
+  },
+  "J.Hurts": {
+    "team": "PHI",
+    "rush_attempts": 58,
+    "epa_per_rush": 0.12894119102513824,
+    "rush_success_rate": 0.5344827586206896
+  },
+  "M.Rudolph": {
+    "team": "PIT",
+    "rush_attempts": 2,
+    "epa_per_rush": 0.6451689472887665,
+    "rush_success_rate": 1.0
+  },
+  "D.Lock": {
+    "team": "SEA",
+    "rush_attempts": 2,
+    "epa_per_rush": -0.48347423505038023,
+    "rush_success_rate": 0.0
+  },
+  "J.Milroe": {
+    "team": "SEA",
+    "rush_attempts": 3,
+    "epa_per_rush": -2.1470461365145943,
+    "rush_success_rate": 0.0
+  },
+  "M.Gaskin": {
+    "team": "SEA",
+    "rush_attempts": 3,
+    "epa_per_rush": -0.5140301525243558,
+    "rush_success_rate": 0.0
+  },
+  "S.Darnold": {
+    "team": "SEA",
+    "rush_attempts": 11,
+    "epa_per_rush": -0.8979049227852381,
+    "rush_success_rate": 0.45454545454545453
+  },
+  "V.Jones": {
+    "team": "SEA",
+    "rush_attempts": 10,
+    "epa_per_rush": -0.2043604345759377,
+    "rush_success_rate": 0.3
+  },
+  "B.Purdy": {
+    "team": "SF",
+    "rush_attempts": 15,
+    "epa_per_rush": 0.8780731324164662,
+    "rush_success_rate": 0.8666666666666667
+  },
+  "M.Jones": {
+    "team": "SF",
+    "rush_attempts": 14,
+    "epa_per_rush": 0.37124639868436915,
+    "rush_success_rate": 0.6428571428571429
+  },
+  "B.Mayfield": {
+    "team": "TB",
+    "rush_attempts": 5,
+    "epa_per_rush": 0.14390142424963415,
+    "rush_success_rate": 0.4
+  },
+  "O.Wright": {
+    "team": "TB",
+    "rush_attempts": 3,
+    "epa_per_rush": -0.34988699954313535,
+    "rush_success_rate": 0.3333333333333333
+  },
+  "C.Ward": {
+    "team": "TEN",
+    "rush_attempts": 10,
+    "epa_per_rush": 0.15647552585578522,
+    "rush_success_rate": 0.6
+  },
+  "K.Mullings": {
+    "team": "TEN",
+    "rush_attempts": 3,
+    "epa_per_rush": -0.1793676163846006,
+    "rush_success_rate": 0.6666666666666666
+  },
+  "J.Daniels": {
+    "team": "WAS",
+    "rush_attempts": 16,
+    "epa_per_rush": -0.405894042533866,
+    "rush_success_rate": 0.375
+  },
+  "M.Mariota": {
+    "team": "WAS",
+    "rush_attempts": 26,
+    "epa_per_rush": -0.08717636002055028,
+    "rush_success_rate": 0.46153846153846156
+  }
+}

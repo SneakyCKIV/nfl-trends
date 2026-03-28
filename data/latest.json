@@ -1,0 +1,6 @@
+{
+  "player_usage": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/player_usage.json",
+  "team_metrics": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/team_metrics.json",
+  "coach": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/coach_analysis.json",
+  "movement": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/player_movement.json"
+}
