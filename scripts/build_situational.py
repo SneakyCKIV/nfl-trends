@@ -34,28 +34,19 @@ team.to_json("data/situational_team.json", orient="records")
 # PLAYER-LEVEL METRICS
 # ----------------------
 
-# Filters
-passes = df[df["pass_attempt"] == 1]
-third_down = df[df["down"] == 3]
-redzone = df[df["yardline_100"] <= 20]
+passes = df[df["pass_attempt"] == 1].copy()
+
+# Drop missing receivers (important)
+passes = passes.dropna(subset=["receiver_player_name"])
 
 player = passes.groupby("receiver_player_name").apply(
     lambda x: pd.Series({
-        # Volume
         "targets": x["target"].sum(),
-
-        # First downs (DIRECTLY tied to your scoring)
         "first_downs": x["first_down"].sum(),
-
-        # 3rd down usage (high leverage)
         "targets_3rd": x[x["down"] == 3]["target"].sum(),
         "first_downs_3rd": x[x["down"] == 3]["first_down"].sum(),
-
-        # Red zone usage (TD upside)
         "targets_rz": x[x["yardline_100"] <= 20]["target"].sum(),
         "tds_rz": x[x["yardline_100"] <= 20]["touchdown"].sum(),
-
-        # Efficiency
         "epa_per_target": x["epa"].mean()
     })
 ).reset_index()
