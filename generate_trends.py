@@ -240,4 +240,12 @@ with open("data/latest.json", "w") as f:
 print("✅ Data build complete")
 
 import subprocess
-subprocess.run(["python", "scripts/build_situational.py"])
+
+result = subprocess.run(
+    ["python", "scripts/build_situational.py"],
+    capture_output=True,
+    text=True
+)
+
+print(result.stdout)
+print(result.stderr)
