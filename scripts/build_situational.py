@@ -2,8 +2,9 @@ import pandas as pd
 
 # Load play-by-play data
 df = pd.read_csv(
-    "https://github.com/nflverse/nflverse-data/releases/download/pbp/pbp_2025.csv.gz",
-    compression="gzip"
+    "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2025.csv.gz",
+    compression="gzip",
+    low_memory=False
 )
 
 # ----------------------
