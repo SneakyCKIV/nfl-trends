@@ -231,7 +231,9 @@ latest = {
     "player_usage": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/player_usage.json",
     "team_metrics": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/team_metrics.json",
     "coach": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/coach_analysis.json",
-    "movement": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/player_movement.json"
+    "movement": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/player_movement.json",
+    "situational_team": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/situational_team.json",
+    "situational_player": "https://raw.githubusercontent.com/SneakyCKIV/nfl-trends/main/data/situational_player.json"
 }
 
 with open("data/latest.json", "w") as f:
