@@ -34,18 +34,28 @@ team.to_json("data/situational_team.json", orient="records")
 # PLAYER-LEVEL METRICS
 # ----------------------
 
+# ----------------------
+# PLAYER-LEVEL METRICS (SAFE VERSION)
+# ----------------------
+
 passes = df[df["pass_attempt"] == 1].copy()
 
-# Drop missing receivers (important)
-passes = passes.dropna(subset=["receiver_player_name"])
+# Only keep valid receiver rows
+passes = passes[
+    (passes["receiver_player_name"].notna()) &
+    (passes["receiver_player_name"] != "")
+]
+
+# Create a target flag (since 'target' column can be unreliable)
+passes["is_target"] = 1
 
 player = passes.groupby("receiver_player_name").apply(
     lambda x: pd.Series({
-        "targets": x["target"].sum(),
+        "targets": len(x),
         "first_downs": x["first_down"].sum(),
-        "targets_3rd": x[x["down"] == 3]["target"].sum(),
+        "targets_3rd": len(x[x["down"] == 3]),
         "first_downs_3rd": x[x["down"] == 3]["first_down"].sum(),
-        "targets_rz": x[x["yardline_100"] <= 20]["target"].sum(),
+        "targets_rz": len(x[x["yardline_100"] <= 20]),
         "tds_rz": x[x["yardline_100"] <= 20]["touchdown"].sum(),
         "epa_per_target": x["epa"].mean()
     })
@@ -53,5 +63,4 @@ player = passes.groupby("receiver_player_name").apply(
 
 player.to_json("data/situational_player.json", orient="records")
 
-
-print("✅ Situational data updated")
+print("✅ Player situational data built")
