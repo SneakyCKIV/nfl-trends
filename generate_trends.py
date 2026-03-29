@@ -238,3 +238,6 @@ with open("data/latest.json", "w") as f:
     json.dump(latest, f, indent=2)
 
 print("✅ Data build complete")
+
+import subprocess
+subprocess.run(["python", "scripts/build_situational.py"])
